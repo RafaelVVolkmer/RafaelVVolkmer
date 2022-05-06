@@ -1,6 +1,6 @@
 # RAFAEL V. VOLKMER
 
-  Olá, sou Rafael, conhecido também na internet como Zadoc. Sou um estudante da [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br), do curso de eletrônica.
+  Olá, sou Rafael, conhecido também na internet como Zadoc. Sou um estudante da [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br), do curso tecnico de eletrônica. Tenho 18 anos e gosto de trbalhar com circuitos e, também, códigos. Minha única linguagem, até então, é C e a uso, principalmente, para controlar periféricos e programar funcionamentos de componentes eletrônicos.
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelVVolkmer)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ImZadoc)
