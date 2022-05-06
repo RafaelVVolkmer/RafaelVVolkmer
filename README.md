@@ -3,7 +3,7 @@
   Olá, sou Rafael, conhecido também na internet como Zadoc. Sou um estudante da [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br), do curso tecnico de eletrônica. Gosto bastante de trabalhar com códigos e circuitos elétricos e estou sempre em busca de novos conhecimentos e, principalmente, inovação.
   
   ### Algumas coisas sobre mim...
- - Sou Brasileiro, e vivo no Sul do país.
+ - Sou Brasileiro e vivo no Sul do país;
  - Tenho 18 anos;
  - Minha única linguagem, até então, é C e a uso, principalmente, para controlar periféricos e programar funcionamentos de componentes eletrônicos;
  - Tento ser inovador nas coisas que faço;
