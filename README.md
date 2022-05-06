@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael.v.volkmer/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/jj4ixeaxzhwtnqhio5xcg8cuq?si=cd42afca2dbc49e3)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api?username={RafaelVVolkmer})]
+
+[![Linguagens](https://github-readme-stats.vercel.app/api?username={RafaelVolkmer})]
 
 
