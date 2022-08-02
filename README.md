@@ -5,7 +5,7 @@
   ### Algumas coisas sobre mim...
  - Sou Brasileiro e vivo no Sul do país;
  - Tenho 19 anos;
- - Minha única linguagem, até então, é C e a uso, principalmente, para controlar periféricos e programar funcionamentos de componentes eletrônicos;
+ - Minha única linguagem, até então, é C, e a uso, principalmente, para controlar periféricos e programar funcionamentos de componentes eletrônicos;
  - Tento ser inovador nas coisas que faço;
  - Prezo pela organização;
  - Gosto de ler, escrever, tocar flauta, cozinhar e de jardinagem.
