@@ -5,6 +5,7 @@
   ### Algumas coisas sobre mim...
  - Sou Brasileiro e vivo no Sul do país;
  - Tenho 19 anos;
+ - Dou monitoria de programação e microprocessamentos em minha escola;
  - Minha única linguagem, até então, é C, e a uso, principalmente, para controlar periféricos e programar funcionamentos de componentes eletrônicos;
  - Tento ser inovador nas coisas que faço;
  - Prezo pela organização;
