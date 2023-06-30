@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=1000&color=1E9DE6&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Rafael+Volkmer" alt="Typing SVG" /></a>
 
- <img src="https://media.giphy.com/media/xT9IgyaftFIcZNphcI/giphy.gif" />
+ ![Alt Text](https://media.giphy.com/media/xT9IgyaftFIcZNphcI/giphy.gif)
 
 <table width="320px">
     <tbody>
