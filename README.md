@@ -18,3 +18,16 @@
         </tr>
     </tbody>
 </table>
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="www.linkedin.com/in/rafael-volkmer-b7637922a">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td><a href="https://open.spotify.com/user/jj4ixeaxzhwtnqhio5xcg8cuq?si=195add63b677449f">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
