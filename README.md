@@ -1,5 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1500&pause=1000&color=1C6180&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Rafael+Volkmer" alt="Typing SVG" /></a>
 
+ <img src="https://alk3r.files.wordpress.com/2016/11/3ef5d-1478555468441.gif?w=1481&h=548&crop=1&zoom=2" />
+
 <table width="320px">
     <tbody>
         <tr valign="top">
