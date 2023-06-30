@@ -28,6 +28,9 @@
             <td><a href="https://open.spotify.com/user/jj4ixeaxzhwtnqhio5xcg8cuq?si=195add63b677449f">
             <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
             </a></td>
+            <td><a href="https://instagram.com/rafael.v.volkmer?igshid=MzNlNGNkZWQ4Mg==">
+            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
+            </a></td>
         </tr>
     </tbody>
 </table>
