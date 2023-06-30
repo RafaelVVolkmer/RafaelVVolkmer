@@ -1,6 +1,9 @@
 # RAFAEL V. VOLKMER
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%3E+Hello%2C+World!;%3E+I'm+Rafael+Volkmer)](https://git.io/typing-svg)
+
+
+
   
   Olá, sou Rafael, chamado na internet  — e às vezes fora dela — de Zadoc. Sou um estudante da [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br), do curso tecnico de eletrônica. Gosto bastante de trabalhar com códigos e circuitos elétricos e estou sempre em busca de novos conhecimentos e, principalmente, inovação.
   
