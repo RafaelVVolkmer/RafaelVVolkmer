@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&multiline=true&width=435&lines=%3E+Hello%2C+World!;%3E+I'm+Rafael+Volkmer.)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 <table width="320px">
     <tbody>
         <tr valign="top">
