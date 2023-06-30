@@ -12,8 +12,8 @@
             <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
             </td>
             <td width="80px" align="center">
-            <span><strong>Phyton</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            <span><strong>Python</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
             </td>
         </tr>
     </tbody>
