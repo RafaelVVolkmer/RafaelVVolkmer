@@ -38,7 +38,7 @@ E-mail: rafael.v.volkmer@gmail.com
 
 # Languages
 
-<table width="320px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/> <table width="320px">
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
