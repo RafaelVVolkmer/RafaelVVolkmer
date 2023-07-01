@@ -28,8 +28,6 @@ I like a lot of literature, pop culture and varied music. I often read, write, c
     </tbody>
 </table>
 
-E-mail: rafael.v.volkmer@gmail.com
-
 # My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> 
