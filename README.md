@@ -5,7 +5,7 @@
 ─────────────────────────────────────────────────────────────────────────────────────
 # Sobre mim...
 
-    Meu nome é Rafael Volkmer e sou técnico em eletrônica pela  [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brasil)
+Meu nome é Rafael Volkmer e sou técnico em eletrônica pela  [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brasil)
 
 <table>
     <tbody>
