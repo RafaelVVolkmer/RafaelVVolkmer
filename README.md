@@ -38,6 +38,8 @@ E-mail: rafael.v.volkmer@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaelVVolkmer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=RafaelVVolkmer&theme=xcode)
+
 # Linguagens que Domino
 
 <table width="320px">
