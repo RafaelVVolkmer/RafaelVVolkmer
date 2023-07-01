@@ -4,6 +4,23 @@
 ![Alt Text](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 ─────────────────────────────────────────────────────────────────────────────────────
 
+
+<table>
+    <tbody>
+        <tr>
+            <td><a href="www.linkedin.com/in/rafael-volkmer-b7637922a">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a></td>
+            <td><a href="https://open.spotify.com/user/jj4ixeaxzhwtnqhio5xcg8cuq?si=195add63b677449f">
+            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
+            </a></td>
+            <td><a href="https://instagram.com/rafael.v.volkmer?igshid=MzNlNGNkZWQ4Mg==">
+            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
+            </a></td>
+        </tr>
+    </tbody>
+</table>
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> 
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -23,19 +40,4 @@
     </tbody>
 </table>
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="www.linkedin.com/in/rafael-volkmer-b7637922a">
-            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
-            </a></td>
-            <td><a href="https://open.spotify.com/user/jj4ixeaxzhwtnqhio5xcg8cuq?si=195add63b677449f">
-            <img height="50" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
-            </a></td>
-            <td><a href="https://instagram.com/rafael.v.volkmer?igshid=MzNlNGNkZWQ4Mg==">
-            <img height="50" src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg"/>
-            </a></td>
-        </tr>
-    </tbody>
-</table>
-<img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
