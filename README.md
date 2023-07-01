@@ -36,6 +36,8 @@ E-mail: rafael.v.volkmer@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaelVVolkmer&themedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 # Linguagens que Domino
 
 <table width="320px">
