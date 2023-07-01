@@ -16,7 +16,7 @@ Gosto de muito de literatura, cultura pop e musicas variadas. Costumo ler, escre
 <table>
     <tbody>
         <tr>
-            <td><a href="www.linkedin.com/in/rafael-volkmer-b7637922a">
+            <td><a href="www.linkedin.com/in/rafaelvvolkmer">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
             <td><a href="https://open.spotify.com/user/jj4ixeaxzhwtnqhio5xcg8cuq?si=195add63b677449f">
