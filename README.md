@@ -7,7 +7,8 @@
 
 Meu nome é Rafael Volkmer e sou técnico em eletrônica pela  [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brasil). No meu curso, aprendemos programação em C e C++, além de arquitetura de embarcados, na disciplina Sistemas Microprocessados. Ofereço moniotira para os alunos da escola nessas disciplinas e tento, ao máximo, ensinar o que sei e ajudar todos a alcançarem seu potencial máximo, tentando cada vez mais melhorar minha didática e ser mais comunicativo.
 
-Sou uma pessoa criativa, mas muito metódica e organizado. Preso, acima de tudo, por fazer códigos limpos e bem compreensivos, que possam ser entendidos por quem
+Sou uma pessoa criativa, mas muito metódica e organizado. Preso, acima de tudo, por fazer códigos limpos e bem compreensivos, que possam ser entendidos por quem não tem muita experiência com certas linguagens. Gosto de ser objetivo em meu trabalho e explorar ideias novas, junto com design patterns diferentes, que se adequam mais ao meu estilo.
+
 <table>
     <tbody>
         <tr>
