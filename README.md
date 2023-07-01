@@ -26,7 +26,6 @@ Sou criativo, mas muito metódico e organizado. Preso, acima de tudo, por fazer 
         </tr>
     </tbody>
 </table>
-─────────────────────────────────
 
 Email: rafael.v.volkmer@gmail.com
 
