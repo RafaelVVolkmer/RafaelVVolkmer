@@ -34,11 +34,11 @@ E-mail: rafael.v.volkmer@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaelVVolkmer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
 
 <table width="320px">
     <tbody>
