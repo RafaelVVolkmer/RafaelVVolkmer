@@ -2,15 +2,15 @@
 ─────────────────────────────────────────────────────────────────────────────────────
 ![Alt Text](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 ─────────────────────────────────────────────────────────────────────────────────────
-# Sobre mim...
+# About Me...
 
-Meu nome é Rafael Volkmer e sou técnico em eletrônica pela  [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brasil). No meu curso, aprendemos programação em C e C++, além de arquitetura de embarcados, nas disciplinas de Sistemas Microprocessados e Elementos de Programação. Ofereço moniotira e aulas particulares para os alunos da escola nessas disciplinas e tento, ao máximo, ter uma boa didática, limpa e compreensiva, que auxilie as pessoas a adquirirem conhecimento de forma muito conceitual e nem um pouco massante.
+My name is Rafael Volkmer and I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil). In my course, we learned programming in C and C++, as well as embedded architecture, in the disciplines of Microprocessor Systems and Programming Elements. I offer monotrips and private lessons for the students of the school in these disciplines and I try, as much as possible, to have a good teaching, clean and comprehensive, that helps people to acquire knowledge in a very conceptual way and not at all overwhelming.
 
-Sou criativo, mas muito metódico e organizado. Preso, acima de tudo, por fazer códigos limpos e bem compreensivos, que possam ser entendidos por quem não tem muita experiência com certas linguagens utilizadas neles. Sou muito objetivo em meu trabalho e costumo explorar ideias novas, formando um estilo único, muito influenciado pelos professores que tive e pelas pesquisas que fiz durante o processo de minha apredizagem.
+I am creative, but very methodical and organized. Prided, above all, for making clean and well-understood codes, which can be understood by those who don't have much experience with certain languages ​​used in them. I am very objective in my work and I tend to explore new ideas, forming a unique style, greatly influenced by the teachers I had and the research I did during the process of my learning.
 
-Gosto de muito de literatura, cultura pop e musicas variadas. Costumo ler, escreve, cozinhar, tocar flauta e praticar jardinagem; atividades que me acalmam e mantém minha mente sempre limpa e focada. Costumo atuar em trabalhos voluntários e atividades diversas, para manter minha vida sempre movimentada, o que me ajuda a desempenhar melhor meu trabalho.
+I like a lot of literature, pop culture and varied music. I often read, write, cook, play the flute and garden; activities that calm me down and keep my mind clear and focused. I usually work in volunteer work and various activities, to keep my life busy, which helps me to better perform my work.
 
-# Contatos
+# Find Me In...
 
 <table>
     <tbody>
@@ -30,7 +30,7 @@ Gosto de muito de literatura, cultura pop e musicas variadas. Costumo ler, escre
 
 E-mail: rafael.v.volkmer@gmail.com
 
-# Programação
+# My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> 
 
@@ -38,9 +38,7 @@ E-mail: rafael.v.volkmer@gmail.com
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RafaelVVolkmer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=RafaelVVolkmer&theme=xcode)
-
-# Linguagens que Domino
+# Languages
 
 <table width="320px">
     <tbody>
@@ -61,6 +59,6 @@ E-mail: rafael.v.volkmer@gmail.com
     </tbody>
 </table>
 
-Estou em busca de aprender mais e mais constantemente. Espero conseguir me especializar em diversas outras linguagens, frameworks, design patterns e plataformas durante minha trajetória como profissional. Gosto de aprender com quem tem mais conhecimento, sabedoria e experiência que eu.
+I'm looking to learn more and more constantly. I hope to be able to specialize in several other languages, frameworks, design patterns and platforms during my career as a professional. I like to learn from those who have more knowledge, wisdom and experience than me.
 
 
