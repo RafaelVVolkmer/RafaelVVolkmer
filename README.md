@@ -57,6 +57,6 @@ E-mail: rafael.v.volkmer@gmail.com
     </tbody>
 </table>
 
-Estou em busca de aprender mais e mais constantemente e espero conseguir me especializar em diversas outras linguagens durante minha trajetória como profissional. Gosto de aprender com quem tem mais conhecimento, sabedoria e experiência que eu.
+Estou em busca de aprender mais e mais constantemente. Espero conseguir me especializar em diversas outras linguagens, frameworks, design patterns e plataformas durante minha trajetória como profissional. Gosto de aprender com quem tem mais conhecimento, sabedoria e experiência que eu.
 
 
