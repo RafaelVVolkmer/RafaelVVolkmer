@@ -9,7 +9,7 @@ Meu nome é Rafael Volkmer e sou técnico em eletrônica pela  [Fundação Escol
 
 Sou criativo, mas muito metódico e organizado. Preso, acima de tudo, por fazer códigos limpos e bem compreensivos, que possam ser entendidos por quem não tem muita experiência com certas linguagens utilizadas neles. Sou muito objetivo em meu trabalho e costumo explorar ideias novas, formando um estilo único, muito influenciado pelos professores que tive e pelas pesquisas que fiz durante o processo de minha apredizagem.
 
-Gosto de muito de literatura, cultura pop e musicas variadas. Costumo ler, escreve, cozinhar, tocar flauta e praticar jardinagem; atividades que me acalmam e mantém minha mente sempre limpa e focada. Costumo atuar em trabalhos voluntários e atividades diversas, para manter minha vida sempre movimentada, assim como sempre sair e ser o mais sociável e respeitoso possível.
+Gosto de muito de literatura, cultura pop e musicas variadas. Costumo ler, escreve, cozinhar, tocar flauta e praticar jardinagem; atividades que me acalmam e mantém minha mente sempre limpa e focada. Costumo atuar em trabalhos voluntários e atividades diversas, para manter minha vida sempre movimentada, o que me ajuda a desempenhar melhor meu trabalho.
 
 # Contatos
 
