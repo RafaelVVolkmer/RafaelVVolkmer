@@ -1,5 +1,6 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=1000&color=1E9DE6&center=true&vCenter=true&width=435&lines=Hello%2C+World!;I'm+Rafael+Volkmer" alt="Typing SVG" /></a>
 
-![Alt Text](https://i.pinimg.com/564x/fe/0d/80/fe0d805c0abc9d857737dfd369dc5a9e.jpg)
+![Alt Text](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <table width="320px">
     <tbody>
