@@ -31,9 +31,14 @@ Gosto de muito de literatura, cultura pop e musicas variadas. Costumo ler, escre
 
 E-mail: rafael.v.volkmer@gmail.com
 
-# Programação e Linguagens
+# Programação
 
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
+
+# Linguagens que Domino
+
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -53,4 +58,6 @@ E-mail: rafael.v.volkmer@gmail.com
     </tbody>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
+Estou em busca de aprender mais e mais constantemente, e espero conseguir me especializar em diversas outras linguagens durante minha trajetória como profissional.
+
+
