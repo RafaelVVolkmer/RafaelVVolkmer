@@ -28,6 +28,8 @@ Sou criativo, mas muito metódico e organizado. Preso, acima de tudo, por fazer 
 </table>
 ─────────────────────────────────
 
+Email: rafael.v.volkmer@gmail.com
+
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> 
 <table width="320px">
     <tbody>
