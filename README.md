@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=1500&pause=1000&color=1E9DE6&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Hello%2C+World!;I'm+Rafael+Volkmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=48&duration=1500&pause=1000&color=1E9DE6&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello%2C+World!;I'm+Rafael+Volkmer)](https://git.io/typing-svg)
 
 ![Alt Text](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
