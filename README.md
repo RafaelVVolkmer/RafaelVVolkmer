@@ -25,6 +25,8 @@ Sou criativo, mas muito metódico e organizado. Preso, acima de tudo, por fazer 
         </tr>
     </tbody>
 </table>
+─────────────────────────────────
+
 <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&show_icons=true&theme=dark"/> 
 <table width="320px">
     <tbody>
