@@ -40,7 +40,7 @@ E-mail: rafael.v.volkmer@gmail.com
 
 # Languages
 
-</table>
+<table>
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
