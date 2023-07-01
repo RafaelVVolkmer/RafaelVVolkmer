@@ -38,8 +38,6 @@ E-mail: rafael.v.volkmer@gmail.com
 
 # Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
-
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -61,4 +59,4 @@ E-mail: rafael.v.volkmer@gmail.com
 
 I'm looking to learn more and more constantly. I hope to be able to specialize in several other languages, frameworks, design patterns and platforms during my career as a professional. I like to learn from those who have more knowledge, wisdom and experience than me.
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelVVolkmer&layout=compact&theme=dark"/>
