@@ -3,8 +3,6 @@
 ![Alt Text](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 ─────────────────────────────────────────────────────────────────────────────────────
 # About Me...
-
-- Some repositories are private
   
 My name is Rafael Volkmer and I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil). In my course, we learned programming in C and C++, as well as embedded architecture, in the disciplines of Microprocessor Systems and Programming Elements. I offer monotrips and private lessons for the students of the school in these disciplines and I try, as much as possible, to have a good teaching, clean and comprehensive, that helps people to acquire knowledge in a very conceptual way and not at all overwhelming.
 
