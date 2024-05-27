@@ -2,13 +2,11 @@
 ─────────────────────────────────────────────────────────────────────────────────────
 ![Alt Text](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 ─────────────────────────────────────────────────────────────────────────────────────
-# About Me...
+# About Me:
   
-My name is Rafael Volkmer and I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil). In my course, we learned programming in C and C++, as well as embedded architecture, in the disciplines of Microprocessor Systems and Programming Elements. I offer monotrips and private lessons for the students of the school in these disciplines and I try, as much as possible, to have a good teaching, clean and comprehensive, that helps people to acquire knowledge in a very conceptual way and not at all overwhelming.
+- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
 
-I am creative, but very methodical and organized. Prided, above all, for making clean and well-understood codes, which can be understood by those who don't have much experience with certain languages ​​used in them. I am very objective in my work and I tend to explore new ideas, forming a unique style, greatly influenced by the teachers I had and the research I did during the process of my learning.
-
-I like a lot of literature, pop culture and varied music. I often read, write, cook, play the flute and garden; activities that calm me down and keep my mind clear and focused. I usually work in volunteer work and various activities, to keep my life busy, which helps me to better perform my work.
+- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](ttps://www.altus.com.br) (São-Leopoldo, RS, Brazil).
 
 # Find Me In...
 
