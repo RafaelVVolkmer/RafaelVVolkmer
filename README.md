@@ -9,6 +9,12 @@
 ────────────────────────────────────────────────────────────────────────────
 </div>
 
+# About Me:
+  
+- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
+
+- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
+
 # Find me on:
 
   <a href="https://linkedin.com/in/rafaelvvolkmer" target="blank" style="margin: 0 10px;">
@@ -45,10 +51,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
-# About Me:
-  
-- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
-
-- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
-- 
 
