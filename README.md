@@ -9,7 +9,14 @@
 ────────────────────────────────────────────────────────────────────────────
 </div>
 
-<div align="center">
+# About Me:
+  
+- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
+
+- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
+- 
+# Find me on:
+
   <a href="https://linkedin.com/in/rafaelvvolkmer" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelvvolkmer" height="30" width="40" />
   </a>
@@ -25,14 +32,6 @@
   <a href="https://www.leetcode.com/rafael_volkmer" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafael_volkmer" height="30" width="40" />
   </a>
-</div>
-
-# About Me:
-  
-- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
-
-- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
-
 
 # Languages/tools I use/study:
 
