@@ -29,8 +29,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rafael.volkmer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rafael.volkmer" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelvvolkmer&show_icons=true&locale=en&layout=compact" alt="rafaelvvolkmer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelvvolkmer&show_icons=true&theme=dark&hide_border=true&locale=br&layout=compact" alt="rafaelvvolkmer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelvvolkmer&show_icons=true&locale=en" alt="rafaelvvolkmer" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelvvolkmer&theme=dark" alt="rafaelvvolkmer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelvvolkmer&" alt="rafaelvvolkmer" /></p>
