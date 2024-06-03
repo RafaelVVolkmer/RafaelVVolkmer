@@ -12,7 +12,7 @@
   <a href="https://instagram.com/rafael.volkmer_" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafael.volkmer_" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/zadocsons" target="blank" style="margin: 0 10px;">
+  <a href="https://www.youtube.com/zadocsons" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zadocsons" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/rafael_volkmer" target="blank" style="margin: 0 10px;">
