@@ -35,7 +35,7 @@
 
 - I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
 <div align="center">
-  # Languages/tools I use/study:
+# Languages/tools I use/study:
 </div>
 
 <div align="center">
