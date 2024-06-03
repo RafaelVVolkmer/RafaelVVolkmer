@@ -3,19 +3,19 @@
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/Rain.gif)
 ─────────────────────────────────────────────────────────────────────────────────────
 <div align="center">
-  <a href="https://linkedin.com/in/rafaelvvolkmer" target="blank" style="margin: 0 10px;">
+  <a href="https://linkedin.com/in/rafaelvvolkmer" target="blank" style="margin: 0 10px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelvvolkmer" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/rafaelvolkmer" target="blank" style="margin: 0 10px;">
+  <a href="https://kaggle.com/rafaelvolkmer" target="blank" style="margin: 0 10px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafaelvolkmer" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/rafael.volkmer_" target="blank" style="margin: 0 10px;">
+  <a href="https://instagram.com/rafael.volkmer_" target="blank" style="margin: 0 10px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafael.volkmer_" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/c/zadocsons" target="blank" style="margin: 0 10px;">
+  <a href="https://www.youtube.com/c/zadocsons" target="blank" style="margin: 0 10px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zadocsons" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/rafael_volkmer" target="blank" style="margin: 0 10px;">
+  <a href="https://www.leetcode.com/rafael_volkmer" target="blank" style="margin: 0 10px; text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafael_volkmer" height="30" width="40" />
   </a>
 </div>
