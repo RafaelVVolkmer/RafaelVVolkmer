@@ -60,11 +60,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelvvolkmer&theme=dark" alt="rafaelvvolkmer" /></p>
 
 
-
-# Languages/tools I use/study:
-
-
-<h3 align="left">Support:</h3>
+# Support me at:
 <p><a href="https://www.buymeacoffee.com/rafael.volkmer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rafael.volkmer" /></a></p><br><br>
 
 
