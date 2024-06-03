@@ -52,9 +52,7 @@
   </a>
 
 # GitHub Status:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelvvolkmer&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="rafaelvvolkmer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelvvolkmer&theme=dark" alt="rafaelvvolkmer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelvvolkmer&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="rafaelvvolkmer" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelvvolkmer&theme=dark" alt="rafaelvvolkmer" /></p>
 
 
 # Support me at:
