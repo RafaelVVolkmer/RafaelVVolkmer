@@ -16,9 +16,11 @@
 ###
 
 ### About Me:
-- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
+- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br)
+(Novo-Hamburgo, RS, Brazil).
 
-- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
+- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br)
+(São-Leopoldo, RS, Brazil).
   
 - I have intermediate knowledge in electrical/electronic engineering, including handling complex hardware systems. I work with registers and processor memory architecture, programming both on bare metal and with HAL, RTOS and embedded Linux libs.
   
@@ -26,7 +28,7 @@
 
 ###
 
-## Languages/tools I use/study:
+### Languages/tools I use/study:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -46,7 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-## Find me on:
+### Find me on:
 
 <div align="left">
   <a href="https://linkedin.com/in/rafaelvvolkmer" target="_blank">
