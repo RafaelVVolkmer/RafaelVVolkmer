@@ -30,6 +30,8 @@
 
 ### Languages/tools I use/study:
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -48,7 +50,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
+###
+
 ### Find me on:
+
+###
 
 <div align="left">
   <a href="https://linkedin.com/in/rafaelvvolkmer" target="_blank">
@@ -61,5 +67,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
 
 
