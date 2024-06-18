@@ -9,6 +9,8 @@
 ───────────────────────────────────────────────────────────────────────────────────
 </div>
 
+<img align="right" height="150" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
+
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png)
 
 # About Me:
