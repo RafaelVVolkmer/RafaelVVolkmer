@@ -60,7 +60,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
-  <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -71,7 +71,7 @@
 
 ###
 
-<img align="right" height="300" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
+<img align="right" height="150" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
 
 ###
 
@@ -111,8 +111,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/RafaelVVolkmer/RafaelVVolkmer/output/snake.svg" alt="Snake animation" />
 
