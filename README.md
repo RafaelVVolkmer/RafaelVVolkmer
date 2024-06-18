@@ -22,23 +22,6 @@
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
 
 ###
-# Find me on:
-
-  <a href="https://linkedin.com/in/rafaelvvolkmer" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafaelvvolkmer" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/rafaelvolkmer" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rafaelvolkmer" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rafael.volkmer_" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafael.volkmer_" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@Zadocsons/videos" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zadocsons" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/rafael_volkmer" target="blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafael_volkmer" height="30" width="40" />
-  </a>
 
 ## Languages/tools I use/study:
 
@@ -59,4 +42,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+
+## Find me on:
+
+<div align="left">
+  <a href="https://linkedin.com/in/rafaelvvolkmer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="rafael.v.volkmer@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Zadocsons/videos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/rafael.volkmer_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
 
