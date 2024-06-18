@@ -14,7 +14,7 @@
 - I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
 
 - I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
-- 
+  
 - I have intermediate knowledge in electrical/electronic engineering, including handling complex hardware systems. I work with registers and processor memory architecture, programming both on bare metal and with HAL, RTOS and embedded Linux libs.
 
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
