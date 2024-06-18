@@ -8,6 +8,7 @@
 <div align="center">
 ───────────────────────────────────────────────────────────────────────────────────
 </div>
+![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png)
 
 # About Me:
   
