@@ -18,10 +18,9 @@
 - I have intermediate knowledge in electrical/electronic engineering, including handling complex hardware systems. I work with registers and processor memory architecture, programming both on bare metal and with HAL, RTOS and embedded Linux libs.
 
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
+<img src="https://raw.githubusercontent.com/RafaelVVolkmer/RafaelVVolkmer/output/snake.svg" alt="Snake animation" />
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/RafaelVVolkmer/RafaelVVolkmer/output/snake.svg" alt="Snake animation" />
 
 ###
 # Find me on:
