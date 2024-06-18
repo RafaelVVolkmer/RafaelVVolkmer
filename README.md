@@ -15,7 +15,7 @@
 
 ###
 
-## About Me:
+### About Me:
 - I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
 
 - I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
