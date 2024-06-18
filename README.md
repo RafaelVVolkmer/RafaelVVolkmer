@@ -9,8 +9,6 @@
 ───────────────────────────────────────────────────────────────────────────────────
 </div>
 
-![Alt Text](https://imgur.com/gallery/c-penguim-vNUx88B)
-
 # About Me:
   
 - I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
