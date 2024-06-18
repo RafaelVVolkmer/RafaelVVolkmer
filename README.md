@@ -18,9 +18,8 @@
 - I have intermediate knowledge in electrical/electronic engineering, including handling complex hardware systems. I work with registers and processor memory architecture, programming both on bare metal and with HAL, RTOS and embedded Linux libs.
 
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
-<img src="https://raw.githubusercontent.com/RafaelVVolkmer/RafaelVVolkmer/output/snake.svg" alt="Snake animation" />
 
-<br clear="both">
+<img align="right" height="150" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
 
 ###
 # Find me on:
@@ -40,7 +39,6 @@
   <a href="https://www.leetcode.com/rafael_volkmer" target="blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rafael_volkmer" height="30" width="40" />
   </a>
-  <img align="right" height="150" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
 
 # Languages/tools I use/study:
 
