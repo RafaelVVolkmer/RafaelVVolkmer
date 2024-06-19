@@ -23,7 +23,7 @@
   
   (São-Leopoldo, RS, Brazil).
   
-- I have intermediate knowledge in electrical/electronic engineering, including handling complex hardware systems. I work with registers and processor memory architecture, programming both on bare metal and with HAL, RTOS and embedded Linux libs.
+- I have intermediate knowledge in electrical/electronic engineering, including handling hardware systems. I work with registers and processor memory architecture, programming both on bare metal and with HAL, RTOS and embedded Linux.
   
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
 
