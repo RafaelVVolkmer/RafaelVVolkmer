@@ -29,7 +29,7 @@
 ###
 #   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  /> C: 
 ###
-#   <img src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"" alt="bash" height="40"/> BASH: 
+#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="bash" height="40"/> BASH: 
  
 
 
