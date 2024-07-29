@@ -21,16 +21,6 @@
 
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 
-</div>
-
-
-###
-
-### About Me:
-
-
-### Languages/tools I use/study:
-
 ###
 
 <div align="left">
