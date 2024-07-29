@@ -2,15 +2,14 @@
 
 
 # About Me:
-- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br)
+- I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br) (Novo-Hamburgo, RS, Brazil).
   ###
 
 <img align="right" height="150" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
-    (Novo-Hamburgo, RS, Brazil).
 
-- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br)
+- I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br) (São-Leopoldo, RS, Brazil).
   
-  (São-Leopoldo, RS, Brazil).
+
   
 - I have intermediate knowledge in electrical/electronic engineering, including handling hardware systems. I work with registers and processor memory architecture, programming both on bare metal and with HAL, RTOS and embedded Linux.
   
