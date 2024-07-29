@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/RafaelVVolkmer_Banner.png)
 
-# About Me:
+# About Me - 私について
 - I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br)
   
   (Novo-Hamburgo, RS, Brazil).
