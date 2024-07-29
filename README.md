@@ -16,6 +16,8 @@
   
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
 
+- I stay curious and focus on things I want to learn, getting better at technologies I already know.
+
 ###
 # Technologies — テクノロジー
 
