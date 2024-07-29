@@ -3,7 +3,7 @@
 <div align="center">
 ───────────────────────────────────────────────────────────────────────────────────
   
-![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/Rain.gif)
+![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 
 ───────────────────────────────────────────────────────────────────────────────────
 </div>
