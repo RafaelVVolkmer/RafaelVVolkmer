@@ -17,7 +17,7 @@
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
 
 ###
-# Languages/tools I use/study:
+# Technologies
 
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
