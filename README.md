@@ -1,6 +1,5 @@
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/Banner.png)
 
-
 # About Me:
 - I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br)
   
@@ -18,12 +17,10 @@
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
 
 ###
-<div align="center">
-─────────────────────────────────────────────────────────────────────────
-  
+# Languages/tools I use/study:
+
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 
-────────────────────────────────────────────────────────────────────────
 </div>
 
 
