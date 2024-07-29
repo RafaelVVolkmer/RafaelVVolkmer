@@ -35,6 +35,9 @@
 ####
 #   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="40"/> SHELL-SCRIPT: 
 ####
+#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="40"/> PYTHON: 
+####
+
 
 ### Find me on:
 
