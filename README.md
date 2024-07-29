@@ -28,6 +28,9 @@
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /> GIT: 
 ###
 #   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  /> C: 
+###
+#   <img src="https://www.gnu.org/software/bash/" height="30" alt="bash logo"  /> BASH: 
+ 
 
 
   <img width="12" />
