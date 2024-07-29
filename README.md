@@ -21,7 +21,7 @@
 ###
 # Technologies — テクノロジー
 
-![Bash Icon](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original-white.svg" alt="Bash Icon" width="50" height="50">
 
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
