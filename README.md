@@ -6,7 +6,7 @@
   ###
 
 <img align="right" height="150" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
-  (Novo-Hamburgo, RS, Brazil).
+    (Novo-Hamburgo, RS, Brazil).
 
 - I have experience in the R&D sector as an embedded software developer, working for [Altus S.A.](https://www.altus.com.br)
   
