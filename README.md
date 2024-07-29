@@ -17,7 +17,7 @@
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
 
 ###
-# Technologies
+# Technologies — テクノロジー
 
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
