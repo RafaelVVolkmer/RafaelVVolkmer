@@ -1,20 +1,9 @@
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/Banner.png)
-# About Me:
-<div align="center">
-─────────────────────────────────────────────────────────────────────────
-  
-![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
-
-────────────────────────────────────────────────────────────────────────
-</div>
-
 ###
 
 <img align="right" height="150" src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/PENGUIM_1%20(1).png"  />
 
-###
-
-### About Me:
+# About Me:
 - I am an electronics technician at [Fundação Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br)
   
   (Novo-Hamburgo, RS, Brazil).
@@ -28,6 +17,19 @@
 - I am committed to clean and understandable codes, making the low level comprehensible for anyone.
 
 ###
+<div align="center">
+─────────────────────────────────────────────────────────────────────────
+  
+![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
+
+────────────────────────────────────────────────────────────────────────
+</div>
+
+
+###
+
+### About Me:
+
 
 ### Languages/tools I use/study:
 
