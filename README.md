@@ -37,15 +37,14 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="40" alt="c"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40" alt="linux"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40"/>
 ###
 
-- Experience with visual studio code, arduino IDE, Code Composer Studio and Atollic TrueStudio and CubeIDE
+- Experience with visual studio code, arduino IDE, Code Composer Studio, Atollic TrueStudio, CubeIDE and Keil
 - Object-oriented programming with C++;
 - Deep artificial neural networks in python;
 - Convolutional, regressive and feedback neural networks;
 - Interface with Jupyter Notebook;
 - Documentation with doxygen;
 - Workflow with agile.
-  
-#
+  ##
 - I am currently training to edit code through the terminal, both shell and Ubuntu WSL using the vim command with the help of the "oh-my-bash" and "oh-my-posh" extensions.
 
 ###
