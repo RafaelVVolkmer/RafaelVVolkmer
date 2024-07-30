@@ -24,25 +24,25 @@
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
 ###
-##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="35" alt="c"/>ㅤㅤㅤC:
+##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="35" alt="c"/>ㅤㅤC:
 ###
-##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="35" alt="cplusplus logo"/>ㅤㅤㅤC++:
+##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="35" alt="cplusplus logo"/>ㅤㅤC++:
 ###
-##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="35"/>ㅤㅤㅤBASH-SCRIPT: 
+##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="35"/>ㅤㅤBASH-SCRIPT: 
 ###
-##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="35"/>ㅤㅤㅤSHELL-SCRIPT: 
+##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="35"/>ㅤㅤSHELL-SCRIPT: 
 ####
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="35" alt="linux"/>ㅤㅤㅤLINUX SO: 
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="35" alt="linux"/>ㅤㅤLINUX SO: 
 
 ###
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>ㅤㅤㅤGIT: 
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>ㅤㅤGIT: 
 
 ###
-#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="30"/>ㅤㅤㅤPYTHON: 
+#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="30"/>ㅤㅤPYTHON: 
 
 
 ####
-#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="30"/>ㅤㅤㅤARDUINO: 
+#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="30"/>ㅤㅤARDUINO: 
 ####
 
 ### Find me on:
