@@ -45,7 +45,7 @@
 - Documentation with doxygen;
 - Workflow with agile.
   ###
-- I am currently training to edit code through the terminal, both shell and Ubuntu WSL using the " $ vim " command with the help of the "oh-my-bash" and "oh-my-posh" extensions.
+- I am currently training to edit code through the terminal, both Power Shell and Ubuntu WSL using the " $ vim " command with the help of the "oh-my-bash" and "oh-my-posh" extensions.
 
 ###
 # Find Me On — 私を見つける
