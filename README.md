@@ -40,13 +40,17 @@ I have extensive knowledge in low-level programming:
 - Virtio communication protocols, IPC with shared memory and SoCs with subsystems (like AM62x);
 - I'm currently training to use the terminal's own editor, vim, with the help of the "oh-my-bash" extension.
 - Some experience with compiler creation steps such as lexer and parsing;
-  ###
-- Documentation with doxygen;
-- Workflow with agile
 
 ###
+#
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="40" alt="c"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40" alt="linux"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40"/>
 ###
+Object-oriented programming with C++;
+- Deep artificial neural networks in python;
+- Convolutional, regressive and feedback neural networks;
+- Interface with Jupyter Notebook;
+- Documentation with doxygen;
+- Workflow with agile;
 
 ###
 # Find Me On — 私を見つける
