@@ -24,6 +24,8 @@
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
 
+I have extensive knowledge in low-level programming, from the most basic, such as manipulating strings, arrays, structures, types, pointers and files in C, to more complex things, such as manipulating physical memory addresses directly, allocating irq callbacks directly in assembly, thus creating generic interrupt handlers, using compilation attributes, creating large repositories and versioning with makefile, manipulating linker sessions and integrating all of this with Python scripts.
+
 ###
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="40" alt="c"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40" alt="linux"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40"/>
 ###
