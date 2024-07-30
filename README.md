@@ -33,12 +33,10 @@
 ##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="35"/>ㅤㅤSHELL-SCRIPT: 
 ####
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="35" alt="linux"/>ㅤㅤLINUX SO: 
-
 ###
-# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>ㅤㅤGIT: 
-
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>ㅤㅤGIT: 
 ###
-#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="30"/>ㅤㅤPYTHON: 
+##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="30"/>ㅤㅤPYTHON: 
 
 
 ####
