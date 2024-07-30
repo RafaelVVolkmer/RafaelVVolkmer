@@ -23,20 +23,29 @@
 ###
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
-
-ㅤㅤI have extensive knowledge of hardware, focused on logic circuits and digital systems, particularly registers and memory allocation operations like interrupt vectors. I'm skilled in manipulating strings, arrays, structures, types, pointers, and files in C, as well as directly manipulating physical memory addresses and registers, having created my own HAL libraries. I can allocate IRQ callbacks directly in assembly, creating generic interrupt handlers, and I am adept at using compilation attributes and flags. I have experience in creating large repositories, versioning with makefiles, and reading and manipulating linker files and .map. My expertise extends to Linux operating systems, thread schedulers, kernel manipulation, device trees, and creating drivers from scratch. I am proficient in booting devices with u-boot and buildroot, and integrating multi-target repositories using git flow, GitLab, GitHub, and git in the terminal. I use VSCode and Eclipse-based IDEs, such as Atollic TrueStudio, CubeIDE from STMicroelectronics, Code Composer Studio from Texas Instruments, and the Arduino IDE. I am knowledgeable about Virtio communication protocols, IPC with shared memory, and SoCs with subsystems like AM62x. Currently, I am training to use the terminal's editor, Vim, with the help of the "oh-my-bash" extension, and I have some experience with compiler creation steps such as lexer and parsing.
-
+- Broad knowledge of hardware, focused on logic circuits and registers;
+- Proficiency in C language;
+- Compiler partitions, such as lexer and parsing. Compilation attributes and flags
+- Reading and manipulating linkers and .map;
+- Experience with makefile operating repository versioning;
+- Experience with Linux: device tress, kernel, u-boot, buildroot, threads, schedulers and driver creation;
+- Basic knowledge of assembly.
+  
 ###
 #
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="40" alt="c"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40" alt="linux"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40"/>
 ###
 
+- Experience with visual studio code, arduino IDE, Code Composer Studio and Atollic TrueStudio and CubeIDE
 - Object-oriented programming with C++;
 - Deep artificial neural networks in python;
 - Convolutional, regressive and feedback neural networks;
 - Interface with Jupyter Notebook;
 - Documentation with doxygen;
 - Workflow with agile;
+  
+#
+- I am currently training to edit code through the terminal, both shell and Ubuntu WSL using the vim command with the help of the "oh-my-bash" and "oh-my-posh" extensions.
 
 ###
 # Find Me On — 私を見つける
