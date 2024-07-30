@@ -37,10 +37,8 @@
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"/>ㅤㅤGIT: 
 ###
 ##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="30"/>ㅤㅤPYTHON: 
-
-
 ####
-#   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="30"/>ㅤㅤARDUINO: 
+##   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="30"/>ㅤㅤARDUINO: 
 ####
 
 ### Find me on:
