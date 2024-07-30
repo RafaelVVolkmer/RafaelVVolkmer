@@ -29,7 +29,8 @@
 - Reading and manipulating linkers and .map;
 - Experience with makefile operating repository versioning;
 - Experience with Linux: device tress, kernel, u-boot, buildroot, threads, schedulers and driver creation;
-- Basic knowledge of assembly.
+- Basic knowledge of assembly;
+- Experience with large multi-target repositories, following GitFlow with GitLab, GitHub and Git extensions via the terminal.
   
 ###
 #
@@ -42,7 +43,7 @@
 - Convolutional, regressive and feedback neural networks;
 - Interface with Jupyter Notebook;
 - Documentation with doxygen;
-- Workflow with agile;
+- Workflow with agile.
   
 #
 - I am currently training to edit code through the terminal, both shell and Ubuntu WSL using the vim command with the help of the "oh-my-bash" and "oh-my-posh" extensions.
