@@ -25,6 +25,7 @@
 #
 
 I have extensive knowledge in low-level programming, from the most basic, such as manipulating strings, arrays, structures, types, pointers and files in C, to more complex things, such as manipulating physical memory addresses directly, allocating irq callbacks directly in assembly, thus creating generic interrupt handlers, using compilation attributes, creating large repositories and versioning with makefile, manipulating linker sessions and integrating all of this with Python scripts.
+###
 I have experience with Linux operating systems, with thread schedulers, kernel manipulation, developer trees and creating drivers from scratch. Experience with u-boot and buildroot, integration with multi-target repositories using git flow, git lab, git hub and git in the terminal. I use vscode and eclipse-based IDEs, such as Atollic TrueSudio and CubeIDE, from STMmicroelectronics, Code Composer Studio, from Texas Instruments and also the Arduino IDE. I have experience with virtio communication protocols, IPC with shared memory and SoCs with subsystems.
 
 ###
