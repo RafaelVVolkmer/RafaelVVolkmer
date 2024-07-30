@@ -23,25 +23,14 @@
 ###
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
-- Knowledge of hardware, focused on logic circuits and digital systems, with an emphasis on registers and memory allocation operations, such as interrupt vectors
-- Manipulating strings, arrays, structures, types, pointers and files in C;
-- As manipulating physical memory addresses and register directly, with experience of creating my own HAL libraries;
-- Alocating irq callbacks directly in assembly, thus creating generic interrupt handlers;
-- using compilation attributes, and compilation flags;
--  Creating large repositories and versioning with makefile;
--  Read and manipulating linker files and .map;
-- Linux operating systems, with thread schedulers;
-- Kernel manipulation, device trees and creating drivers from scratch;
+
+  I have extensive knowledge of hardware, focused on logic circuits and digital systems, particularly registers and memory allocation operations like interrupt vectors. I'm skilled in manipulating strings, arrays, structures, types, pointers, and files in C, as well as directly manipulating physical memory addresses and registers, having created my own HAL libraries. I can allocate IRQ callbacks directly in assembly, creating generic interrupt handlers, and I am adept at using compilation attributes and flags. I have experience in creating large repositories, versioning with makefiles, and reading and manipulating linker files and .map. My expertise extends to Linux operating systems, thread schedulers, kernel manipulation, device trees, and creating drivers from scratch. I am proficient in booting devices with u-boot and buildroot, and integrating multi-target repositories using git flow, GitLab, GitHub, and git in the terminal. I use VSCode and Eclipse-based IDEs, such as Atollic TrueStudio, CubeIDE from STMicroelectronics, Code Composer Studio from Texas Instruments, and the Arduino IDE. I am knowledgeable about Virtio communication protocols, IPC with shared memory, and SoCs with subsystems like AM62x. Currently, I am training to use the terminal's editor, Vim, with the help of the "oh-my-bash" extension, and I have some experience with compiler creation steps such as lexer and parsing.
+
 ###
 #
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="40" alt="c"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40" alt="linux"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40"/>
 ###
-- Boot devices with u-boot and buildroot;
-- Integration with multi-target repositories using git flow, git lab, git hub and git in the terminal;
-- Use vscode and eclipse-based IDEs, such as Atollic TrueSudio and CubeIDE, from STMmicroelectronics, Code Composer Studio, from Texas Instruments and also the Arduino IDE;
-- Virtio communication protocols, IPC with shared memory and SoCs with subsystems (like AM62x);
-- I'm currently training to use the terminal's own editor, vim, with the help of the "oh-my-bash" extension.
-- Some experience with compiler creation steps such as lexer and parsing;
+
 - Object-oriented programming with C++;
 - Deep artificial neural networks in python;
 - Convolutional, regressive and feedback neural networks;
