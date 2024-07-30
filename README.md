@@ -23,8 +23,14 @@
 ###
 ![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
 #
-
-I have extensive knowledge in low-level programming from the most basic, such as manipulating strings, arrays, structures, types, pointers and files in C, to more complex things, such as manipulating physical memory addresses directly, allocating irq callbacks directly in assembly, thus creating generic interrupt handlers, using compilation attributes, creating large repositories and versioning with makefile, manipulating linker sessions and integrating all of this with Python scripts.
+I have extensive knowledge in low-level programming:
+- Knowledge of hardware, focused on logic circuits and digital systems, with an emphasis on registers and memory allocation operations, such as interrupt vectors
+- Manipulating strings, arrays, structures, types, pointers and files in C;
+- As manipulating physical memory addresses and register directly, with experience of creating my own HAL libraries;
+- Alocating irq callbacks directly in assembly, thus creating generic interrupt handlers;
+- using compilation attributes, and compilation flags;
+-  Creating large repositories and versioning with makefile;
+-  Read and manipulating linker files and .map;
 ###
 - Linux operating systems, with thread schedulers;
 - Kernel manipulation, device trees and creating drivers from scratch;
@@ -33,6 +39,10 @@ I have extensive knowledge in low-level programming from the most basic, such as
 - Use vscode and eclipse-based IDEs, such as Atollic TrueSudio and CubeIDE, from STMmicroelectronics, Code Composer Studio, from Texas Instruments and also the Arduino IDE;
 - Virtio communication protocols, IPC with shared memory and SoCs with subsystems (like AM62x);
 - I'm currently training to use the terminal's own editor, vim, with the help of the "oh-my-bash" extension.
+- Some experience with compiler creation steps such as lexer and parsing;
+  ###
+- Documentation with doxygen;
+- Workflow with agile
 
 ###
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" height="40" alt="c"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" alt="shell" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" height="40" alt="linux"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" alt="python" height="40"/>ㅤㅤㅤ<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="40"/>
