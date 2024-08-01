@@ -28,7 +28,7 @@
 - Compiler partitions, such as lexer and parsing. Compilation attributes and flags
 - Reading and manipulating linkers and .map;
 - Experience with makefile operating repository versioning;
-- Experience with Linux: device tress, kernel, u-boot, buildroot, threads, schedulers and driver creation;
+- Experience with Linux;
 - Basic knowledge of assembly;
 - Experience with large multi-target repositories, following GitFlow with GitLab, GitHub and Git extensions via the terminal.
   
