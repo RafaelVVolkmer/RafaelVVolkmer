@@ -25,12 +25,12 @@
 #
 - Broad knowledge of hardware, focused on logic circuits and registers;
 - Proficiency in C language;
-- Compiler partitions, such as lexer and parsing. Compilation attributes and flags
+- Compiler partitions, such as lexer and parsing. Compilation attributes and flags;
 - Reading and manipulating linkers and .map;
 - Experience with makefile operating repository versioning;
 - Experience with Linux;
 - Basic knowledge of assembly;
-- Experience with large multi-target repositories, following GitFlow with GitLab, GitHub and Git extensions via the terminal.
+- Experience with large multi-target repositories, following GitFlow with GitLab, GitHub and Git extensions via the terminal;
   
 ###
 #
