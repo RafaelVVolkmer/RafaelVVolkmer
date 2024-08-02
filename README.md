@@ -18,6 +18,8 @@
 
 - I stay curious and focus on things I want to learn, getting better at technologies I already know.
 
+- I am always willing to help others who are less experienced and to learn from those who know more than me.
+
 ###
 # Technologies — テクノロジー
 ###
