@@ -6,33 +6,38 @@
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
        
-        _____        __           _  __      __   _ _                        
-        |  __ \      / _|         | | \ \    / /  | | |                       
-        | |__) |__ _| |_ __ _  ___| |  \ \  / /__ | | | ___ __ ___   ___ _ __ 
-        |  _  // _` |  _/ _` |/ _ \ |   \ \/ / _ \| | |/ / '_ ` _ \ / _ \ '__|
-        | | \ \ (_| | || (_| |  __/ |    \  / (_) | |   <| | | | | |  __/ |   
-        |_|  \_\__,_|_| \__,_|\___|_|     \/ \___/|_|_|\_\_| |_| |_|\___|_|    
-        ------------------------------------------------------------------
+    ┳┓  ┏    ┓  ┓┏  ┓┓        
+    ┣┫┏┓╋┏┓┏┓┃  ┃┃┏┓┃┃┏┏┳┓┏┓┏┓
+    ┛┗┗┻┛┗┻┗ ┗  ┗┛┗┛┗┛┗┛┗┗┗ ┛ 
+</p>
 
-        ABOUT ME:
-        
-          ◊ he/him - brazilian (pt/br + english)
-          ◊ electronics technician
-          ◊ computer science undergraduated
-          ◊ embedded systems developer in the research and development sector (R&D)
-
-        OS:
-        
-          - Linux: arch (main) -
-          - Windows 11: with WSL (Ubuntu 18.3) -
+    /about-me
+    │
+    ├── bio.txt
+    │   ├── he/him - brazilian - (pt/br + english)
+    │   ├── electronics technician
+    │   ├── computer science undergraduated
+    │   └── embedded systems developer in the research and development sector (R&D)
+    │
+    ├── os
+    │   ├── linux.txt
+    │   │   └── arch (main)
+    │   └── windows.txt
+    │       └── Windows 11: with WSL (Ubuntu 18.3)
+    │
+    ├── languages
+    │   ├── C.c
+    │   ├── C++.cpp
+    │   ├── bash_script.sh
+    │   ├── shell_script.sh
+    │   ├── assembly.asm
+    │   └── python.py
+    │
+    └── learning
+        ├── golang.go
+        ├── rust.rs
+        └── zig.zig
           
-        LANGUAGES:
-          
-          ◦ C/C++
-          ◦ Bash Script / Shell Script
-          ◦ Assembly
-          ◦ GoLang
-          ◦ Python
   </p>
   </tr>
 </table>
