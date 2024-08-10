@@ -18,8 +18,7 @@
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── electronics technician
     │   ├── computer science undergraduated
-    │   └── embedded systems developer 
-    │       └──research and development sector (R&D)
+    │   └── embedded systems developer at research and development sector (R&D)
     │
     ├── os
     │   ├── linux.txt
