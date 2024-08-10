@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/IMAGEM.jpg" alt="Descrição da Imagem" style="width: 100%; border: none;"/>
+       <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/IMAGEM.jpg" alt="Descrição da Imagem" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
@@ -33,5 +33,6 @@
           ◦ Assembly
           ◦ GoLang
           ◦ Python
+  </p>
   </tr>
 </table>
