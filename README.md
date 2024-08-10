@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/imagen.jpg" alt="Descrição da Imagem"  style="width:100%;"/>
+       <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/IMAGEM.jpg" alt="Descrição da Imagem"  style="width:100%;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p>
