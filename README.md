@@ -9,6 +9,17 @@
     ┳┓  ┏    ┓  ┓┏   ┓┏  ┓┓        
     ┣┫┏┓╋┏┓┏┓┃  ┃┃   ┃┃┏┓┃┃┏┏┳┓┏┓┏┓
     ┛┗┗┻┛┗┻┗ ┗  ┗┛.  ┗┛┗┛┗┛┗┛┗┗┗ ┛ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  </p>
+  
+    - I'm always stay motivated and curious.
+    - I'm always willing to help others
+    - I'm always learning from those who know more than me.
+    - I like to keep my code clean and document my work.
+    - I love learning more about new technologies
+    - I focus on low-level programming
+    - I have a lot of knowledge in the hardware area.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
     /About_Me
@@ -17,7 +28,8 @@
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── electronics technician
     │   ├── computer science undergraduated
-    │   └── embedded systems developer in the research and development sector (R&D)
+    │   └── embedded systems developer 
+    │       └──research and development sector (R&D)
     │
     ├── os
     │   ├── linux.txt
@@ -37,7 +49,6 @@
         ├── golang.go
         ├── rust.rs
         └── zig.zig
-          
-  </p>
+  
   </tr>
 </table>
