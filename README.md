@@ -23,7 +23,7 @@
 ###
 # Technologies — テクノロジー
 ###
-![Alt Text](https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png)
+
 #
 - Broad knowledge of hardware, focused on logic circuits and registers;
 - Proficiency in C language;
