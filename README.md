@@ -17,8 +17,10 @@
     ├── bio.txt
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── electronics technician
+    │   │   └── /www.liberato.com.br
     │   ├── computer science undergraduated
     │   └── embedded systems developer at research and development sector (R&D)
+    |       └── /www.altus.com.br
     │
     ├── os
     │   ├── linux.txt
@@ -37,7 +39,8 @@
     └── learning
         ├── golang.go
         ├── rust.rs
-        └── zig.zig
+        ├── zig.zig
+        └── editing codes in Vim
   
   </tr>
 </table>
