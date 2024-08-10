@@ -17,10 +17,10 @@
     ├── bio.txt
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── electronics technician
-    │   │   └── /www.liberato.com.br
+    │   │   └── at /www.liberato.com.br
     │   ├── computer science undergraduated
-    │   └── embedded systems developer at research and development sector (R&D)
-    |       └── /www.altus.com.br
+    │   └── embedded systems developer in research and development sector (R&D)
+    |       └── at /www.altus.com.br
     │
     ├── os
     │   ├── linux.txt
