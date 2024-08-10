@@ -21,7 +21,7 @@
     │
     ├── os
     │   ├── linux.txt
-    │   │   └── arch (main)
+    │   │   └── arch_linux (main)
     │   └── windows.txt
     │       └── Windows 11: with WSL (Ubuntu 18.3)
     │
