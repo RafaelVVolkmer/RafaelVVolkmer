@@ -11,7 +11,7 @@
     ┛┗┗┻┛┗┻┗ ┗  ┗┛┗┛┗┛┗┛┗┗┗ ┛ 
 </p>
 
-    /about-me
+    /About_Me
     │
     ├── bio.txt
     │   ├── he/him - brazilian - (pt/br + english)
