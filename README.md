@@ -14,7 +14,7 @@
 
     /About_Me
     │
-    ├── bio.txt
+    ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── electronics technician
     │   │   └── at /www.liberato.com.br
@@ -22,13 +22,13 @@
     │   └── embedded systems developer in research and development sector (R&D)
     |       └── at /www.altus.com.br
     │
-    ├── os
+    ├── /os
     │   ├── linux.txt
     │   │   └── arch_linux (main)
     │   └── windows.txt
     │       └── Windows 11: with WSL (Ubuntu 18.3)
     │
-    ├── languages
+    ├── /languages
     │   ├── C.c
     │   ├── C++.cpp
     │   ├── bash_script.sh
@@ -36,7 +36,7 @@
     │   ├── assembly.asm
     │   └── python.py
     │
-    └── learning
+    └── /learning
         ├── editing codes in Vim
         ├── golang.go
         ├── rust.rs
