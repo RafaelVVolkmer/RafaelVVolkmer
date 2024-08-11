@@ -16,16 +16,16 @@
     │
     ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── electronics technician
-    │   │   └── at /www.liberato.com.br
+    │   ├── /electronics_technician
+    │   │   └── at www.liberato.com.br
     │   ├── computer science undergraduated
-    │   └── embedded systems developer in research and development sector (R&D)
-    |       └── at /www.altus.com.br
+    │   └── /embedded systems developer in research and development sector (R&D)
+    |       └── at www.altus.com.br
     │
     ├── /os
-    │   ├── linux.txt
+    │   ├── /linux
     │   │   └── arch_linux (main)
-    │   └── windows.txt
+    │   └── /windows
     │       └── Windows 11: with WSL (Ubuntu 18.3)
     │
     ├── /languages
