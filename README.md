@@ -17,11 +17,8 @@
     ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── /electronics_technician
-    │   │   └── at www.liberato.com.br
     │   ├── /computer science undergraduated
-    │   │   └── at www.unisinos.br
     │   └── /embedded systems developer in research and development sector (R&D)
-    |       └── at www.altus.com.br
     │
     ├── /os
     │   ├── /linux
