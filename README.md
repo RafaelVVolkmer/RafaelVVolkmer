@@ -34,7 +34,8 @@
     │   ├── C++.cpp
     │   ├── bash_script.sh
     │   ├── shell_script.sh
-    │   ├── assembly.asm
+    │   ├── /assembly.asm
+    │   │   └── (ARM x86_64)
     │   └── python.py
     │
     └── /learning
