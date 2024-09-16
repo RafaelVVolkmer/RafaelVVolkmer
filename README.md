@@ -17,7 +17,6 @@
     ├── /bio
     │   ├── he/him - brazilian - (pt/br + english)
     │   ├── /electronics_technician
-    │   ├── /computer science undergraduated
     │   └── /embedded systems developer in research and development sector (R&D)
     │
     ├── /os
