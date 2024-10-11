@@ -37,13 +37,24 @@
     │   ├── golang.go
     │   └── python.py
     │
-    └── /Code Editors (IDEs)
-        ├── NeoVim (main)
-        ├── VsCode (for Windows os)
-        ├── CubeIDE / CubeMonitor / CubeProgrammer
-        ├── CodeComposerStudio (CCS)
-        ├── ArduinoIDE
-        └── Keil
-        
+    ├── /Code Editors (IDEs)
+    │   ├── NeoVim (main)
+    │   ├── VsCode (for Windows os)
+    │   ├── STMicroeletronics
+    │   │   ├── CubeIDE
+    │   │   ├── CubeProgrammer
+    │   │   └── CubeMonitor
+    │   ├── CodeComposerStudio (CCS)
+    │   ├── ArduinoIDE
+    │   ├── Atollic TrueStudio
+    │   └── Keil
+    │ 
+    └── /tools
+        ├── GDB
+        ├── Altium
+        ├── Psim
+        ├── Matlab
+        ├── Octave
+        └── Wireshark
   </tr>
 </table>
