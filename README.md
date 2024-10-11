@@ -15,46 +15,31 @@
     /About_Me
     │
     ├── /bio
-    │   ├── he/him - brazilian - (pt/br + english)
-    │   ├── /electronics_technician
-    │   └── /embedded systems developer in research and development sector (R&D)
+    │    ├── he/him - brazilian - (pt/br + english)
+    │    ├── /electronics_technician
+    │    └── /embedded systems developer in research and development sector (R&D)
     │
     ├── /os
-    │   ├── /linux
-    │   │   └── arch_linux (main)
-    │   └── /windows
+    │    ├── /linux
+    │    │   └── arch_linux (main)
+    │    └── /windows
     │       └── Windows 11: with WSL (Ubuntu 18.3)
     │
-    ├── /languages
-    │   ├── /assembly.asm
-    │   │   └── (ARM x86_64)
-    │   ├── bash_script.sh
-    │   ├── shell_script.sh
-    │   ├── C.c
-    │   ├── C++.cpp
-    │   ├── rust.rs
-    │   ├── zig.zig
-    │   ├── golang.go
-    │   └── python.py
-    │
-    ├── /Code Editors (IDEs)
-    │   ├── NeoVim (main)
-    │   ├── VsCode (for Windows os)
-    │   ├── STMicroeletronics
-    │   │   ├── CubeIDE
-    │   │   ├── CubeProgrammer
-    │   │   └── CubeMonitor
-    │   ├── CodeComposerStudio (CCS)
-    │   ├── ArduinoIDE
-    │   ├── Atollic TrueStudio
-    │   └── Keil
-    │ 
-    └── /tools
-        ├── GDB
-        ├── Altium
-        ├── Psim
-        ├── Matlab
-        ├── Octave
-        └── Wireshark
+    └── /languages
+         ├── /assembly.asm
+         │   └── (ARM x86_64)
+         ├── bash_script.sh
+         ├── shell_script.sh
+         ├── C.c
+         ├── C++.cpp
+         ├── rust.rs
+         ├── zig.zig
+         ├── golang.go
+         ├── Haskell.hs
+         └── python.py
+
+
+
+
   </tr>
 </table>
