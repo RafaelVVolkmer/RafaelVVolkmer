@@ -26,19 +26,24 @@
     │       └── Windows 11: with WSL (Ubuntu 18.3)
     │
     ├── /languages
-    │   ├── C.c
-    │   ├── C++.cpp
-    │   ├── bash_script.sh
-    │   ├── shell_script.sh
     │   ├── /assembly.asm
     │   │   └── (ARM x86_64)
+    │   ├── C.c
+    │   ├── C++.cpp
+    │   ├── rust.rs
+    │   ├── zig.zig
+    │   ├── golang.go
+    │   ├── bash_script.sh
+    │   ├── shell_script.sh
     │   └── python.py
     │
-    └── /learning
-        ├── editing codes in Vim
-        ├── golang.go
-        ├── rust.rs
-        └── zig.zig
+    └── /Code Editors (IDEs)
+        ├── NeoVim (main)
+        ├── VsCode (for Windows os)
+        ├── CubeIDE / CubeMonitor / CubeProgrammer
+        ├── CodeComposerStudio (CCS)
+        ├── ArduinoIDE
+        └── Keil
         
   </tr>
 </table>
