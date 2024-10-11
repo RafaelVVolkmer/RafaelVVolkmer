@@ -28,13 +28,13 @@
     ├── /languages
     │   ├── /assembly.asm
     │   │   └── (ARM x86_64)
+    │   ├── bash_script.sh
+    │   ├── shell_script.sh
     │   ├── C.c
     │   ├── C++.cpp
     │   ├── rust.rs
     │   ├── zig.zig
     │   ├── golang.go
-    │   ├── bash_script.sh
-    │   ├── shell_script.sh
     │   └── python.py
     │
     └── /Code Editors (IDEs)
