@@ -23,7 +23,7 @@
     │    ├── /linux
     │    │   └── arch_linux (main)
     │    └── /windows
-    │       └── Windows 11: with WSL (Ubuntu 18.3)
+    │        └── Windows 11: with WSL (Ubuntu 18.3)
     │
     └── /languages
          ├── /assembly.asm
