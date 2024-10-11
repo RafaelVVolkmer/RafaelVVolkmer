@@ -35,7 +35,7 @@
          ├── rust.rs
          ├── zig.zig
          ├── golang.go
-         ├── Haskell.hs
+         ├── haskell.hs
          └── python.py
 
 
