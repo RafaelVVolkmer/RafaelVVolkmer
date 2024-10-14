@@ -36,6 +36,7 @@
          ├── zig.zig
          ├── golang.go
          ├── haskell.hs
+         ├── lua.lua
          └── python.py
   </tr>
 </table>
