@@ -16,7 +16,7 @@
     │
     ├── /bio
     │    ├── he/him - brazilian - (pt/br + english)
-    │    ├── /electronics_technician
+    │    ├── /electronics technician
     │    └── /embedded systems developer in resear R&D sector
     │
     ├── /os
