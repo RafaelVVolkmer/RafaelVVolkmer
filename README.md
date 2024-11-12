@@ -16,14 +16,14 @@
     │
     ├── /bio
     │    ├── he/him - brazilian - (pt/br + english)
-    │    ├── /electronics technician
-    │    └── /embedded systems developer in resear R&D sector
+    │    ├── electronics technician
+    │    └── embedded systems developer in resear R&D sector
     │
     ├── /os
     │    ├── /linux (main)
     │    │   └── Ubuntu_v24.04-LTS
     │    └── /windows
-    │        └── Windows_11
+    │        └── /Windows_11
     │            └── WSL-Ubuntu_v18.03-LTS
     │
     ├── /languages
