@@ -51,7 +51,7 @@
   </tr>
 </table>
     
-<img src="https://leetcard.jacoblin.cool/Rafael_Volkmer?theme=nord&font=JetBrains%20Mono" height="158" alt="LeetCode Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="158" alt="stats graph"  />
+<img src="https://leetcard.jacoblin.cool/Rafael_Volkmer?theme=nord&font=JetBrains%20Mono" height="155" alt="LeetCode Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="155" alt="stats graph"  />
 
 
 
