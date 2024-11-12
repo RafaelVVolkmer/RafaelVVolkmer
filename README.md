@@ -12,36 +12,48 @@
 
 </p>
 
+```graphql
     /About_Me
     │
     ├── /bio
-    │    ├── he/him - brazilian - (pt/br + english)
+    │    ├── he/him - brazilian - pt/br + english
     │    ├── /electronics_technician
-    │    └── /embedded systems developer in research and development sector (R&D)
+    │    └── /embedded systems developer in R&D sector
     │
     ├── /os
-    │    ├── /linux
-    │    │   └── Ubuntu_v24.04-LTS
+    │    ├── /linux (main)
+    │    │   └── Ubuntu_v24_04-LTS
     │    └── /windows
     │        └── Windows_11
-    │            └── WSL-Ubuntu_v18.03-LTS
-    └── /languages
-         ├── /assembly.asm
-         │   └── (ARM x86_64)
-         ├── bash_script.sh
-         ├── shell_script.sh
-         ├── C.c
-         ├── C++.cpp
-         ├── rust.rs
-         ├── zig.zig
-         ├── golang.go
-         ├── haskell.hs
-         ├── lua.lua
-         └── python.py
+    │            └── WSL-Ubuntu_v18_03-LTS
+    │
+    ├── /languages
+    │    ├── /assembly.asm
+    │    │   └── ARM x86_64
+    │    ├── bash_script.sh
+    │    ├── shell_script.sh
+    │    ├── C.c
+    │    ├── Cpp.cpp
+    │    ├── rust.rs
+    │    ├── zig.zig
+    │     ├── VHDL.vhd
+    │    ├── golang.go
+    │    └── python.py
+    │
+    └── /IDEs
+        ├── NVIM (main)
+        ├── VScode
+        ├── STM32 CudeIDE / STM32 CubeMonitor
+        ├── Code Composer Studio
+        ├── Atollic TrueStudio
+        └── Keil
+```
   </tr>
 </table>
-
+    
 <img src="https://leetcard.jacoblin.cool/Rafael_Volkmer?theme=nord&font=JetBrains%20Mono" height="172" alt="LeetCode Stats" /> <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&order=1" height="172" alt="stats graph"  />
+
+
 
 
                                                                                                           
