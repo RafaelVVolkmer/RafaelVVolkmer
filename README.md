@@ -32,10 +32,10 @@
     │    ├── bash_script.sh
     │    ├── shell_script.sh
     │    ├── C.c
-    │    ├── Cpp.cpp
+    │    ├── C++.cpp
     │    ├── rust.rs
     │    ├── zig.zig
-    │    ├── VHDL.vhd
+    │    ├── vhdl.vhd
     │    ├── golang.go
     │    └── python.py
     │
