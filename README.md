@@ -15,16 +15,16 @@
     /About_Me
     │
     ├── /bio
-    │    ├── he/him - brazilian - pt/br + english
+    │    ├── he/him - brazilian - (pt/br + english)
     │    ├── /electronics_technician
     │    └── /embedded systems developer in R&D sector
     │
     ├── /os
     │    ├── /linux (main)
-    │    │   └── Ubuntu_v24_04-LTS
+    │    │   └── Ubuntu_v24.04-LTS
     │    └── /windows
     │        └── Windows_11
-    │            └── WSL-Ubuntu_v18_03-LTS
+    │            └── WSL-Ubuntu_v18.03-LTS
     │
     ├── /languages
     │    ├── /assembly.asm
