@@ -12,7 +12,6 @@
 
 </p>
 
-```graphql
     /About_Me
     │
     ├── /bio
@@ -47,7 +46,7 @@
         ├── Code Composer Studio
         ├── Atollic TrueStudio
         └── Keil
-```
+        
   </tr>
 </table>
     
