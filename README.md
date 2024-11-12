@@ -28,7 +28,7 @@
     │
     ├── /languages
     │    ├── /assembly.asm
-    │    │   └── ARM x86_64
+    │    │   └── (ARM-x86_64)
     │    ├── bash_script.sh
     │    ├── shell_script.sh
     │    ├── C.c
