@@ -35,7 +35,7 @@
     │    ├── Cpp.cpp
     │    ├── rust.rs
     │    ├── zig.zig
-    │     ├── VHDL.vhd
+    │    ├── VHDL.vhd
     │    ├── golang.go
     │    └── python.py
     │
