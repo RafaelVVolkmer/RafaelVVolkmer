@@ -66,7 +66,7 @@
 <table>
   <tr>
     </td>
-    <td style="width: 50%; vertical-align: top;">
+    <td style="width: 60%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
 
         → Introduction to Algorithms					By: Thomas H. Cormen
