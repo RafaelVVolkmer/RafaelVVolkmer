@@ -58,38 +58,6 @@
 <br>
 </details>
 
-<details>
-<summary> 𝑳𝒊𝒕𝒆𝒓𝒂𝒕𝒖𝒓𝒆𝒔 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ━ ━━━</summary>
-<br>
-
-<table>
-  <tr>
-    </td>
-    <td style="width: 60%; vertical-align: top;">
-      <p style="font-family: monospace; font-size: 16px;">
-
-        → Introduction to Algorithms					By: Thomas H. Cormen
-        → Clean Code							By: Robert C. Martin
-        → Clean Architecture						By: Robert C. Martin
-        → The Clean Coder							By: Robert C. Martin
-        → Functional Design							By: Robert C. Martin
-        → Clean Craftsmanship						By: Robert C. Martin
-        → Code: The Hidden Language of Computer Hardware and Software	By: Charles Petzold
-        → Grokking Algorithms						By: Aditya Bhargav
-        → Grokking Concurrency						By: Aditya Bhargav
-        → Grokking Simplicity						By: Aditya Bhargav
-        → Debugging: The 9 Indispensable Rules for Finding Even…		By: David J. Agans
-        → Compilers: Principles, Techniques, and Tools			By: David J. Agans
-        → The Art of Computer Programming (series)			        By: Donald Knuth
-        → Refactoring: Improving the Design of Existing Code		By: Martin Fowler
-        → The Mythical Man-Month 						By: Fred Brooks
-        → The Pragmatic Programmer						By: Andy Hunt
-        → Extreme Programming						By: Kent Beck
-        
-  </tr>
-</table>
-
-</details>
 
 
 
