@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/readme_github.svg" alt="Angel" style="width: 200%; border: none;"/>
+       <img src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/readme_github.svg" alt="readme image" style="width: 200%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
       <p style="font-family: monospace; font-size: 16px;">
