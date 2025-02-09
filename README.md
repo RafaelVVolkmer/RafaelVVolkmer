@@ -94,3 +94,18 @@ Results-driven developer with expertise in managing large-scale repositories and
     width="75"
   />
 </div>
+
+---
+<table width="800px">
+  <tr>
+    <td width="50%">
+      <img src="https://leetcard.jacoblin.cool/Rafael_Volkmer?theme=catppuccinMocha&font=Gayathri&ext=heatmap" height="300px" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200px" width="100%"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVVolkmer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="140px" width="100%"/>
+    </td>
+  </tr>
+</table>
+
