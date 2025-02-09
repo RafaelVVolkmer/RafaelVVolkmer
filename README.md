@@ -17,8 +17,6 @@ Results-driven developer with expertise in managing large-scale repositories and
   <span style="font-size: 28px; font-weight: bold;">Tech Stack</span>
 </h1>
 
-
-**`Programming Languages`**
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img 
     src="https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=%23A8B9CC&labelColor=%23161b22&color=%23161b22"
@@ -60,43 +58,45 @@ Results-driven developer with expertise in managing large-scale repositories and
     alt="Python"
     width="112"
   />
-</div>
-
----
-
-**`Infra, Build and Database`**
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img
     src="https://img.shields.io/badge/Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=%23326CE5&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="Kubernetes"
+    width="150"
   />
   <img
     src="https://img.shields.io/badge/Docker-white?style=flat-square&logo=docker&logoColor=%232496ED&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="Docker"
+    width="112"
   />
   <img
     src="https://img.shields.io/badge/MySql-white?style=flat-square&logo=mysql&logoColor=%234479A1&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="MySQL"
+    width="103"
   />
   <img
     src="https://img.shields.io/badge/SQLite-white?style=flat-square&logo=sqlite&logoColor=%23003B57&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="SQLite"
+    width="110"
   />
   <img
     src="https://img.shields.io/badge/Cmake-white?style=flat-square&logo=cmake&logoColor=%23064F8C&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="CMake"
-    width="100"
+    width="112"
   />
-</div>
-
----
-
-**`Operating Systems`**
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img
     src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=%23FCC624&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="Linux"
+    width="97"
   />
+  <img
+    src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=%23F05032&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
+    alt="Git"
+    width="76"
+  />
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+
   <img
     src="https://img.shields.io/badge/Ubuntu-white?style=flat-square&logo=ubuntu&logoColor=%23E95420&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="Ubuntu"
@@ -107,9 +107,6 @@ Results-driven developer with expertise in managing large-scale repositories and
   />
 </div>
 
----
-
-**`Version Control and Deploy`**
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img
     src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=%23F05032&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
@@ -133,9 +130,7 @@ Results-driven developer with expertise in managing large-scale repositories and
   />
 </div>
 
----
 
-**`Integrated Development Environments (IDEs)`**
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img
     src="https://img.shields.io/badge/Neovim-white?style=flat-square&logo=neovim&logoColor=%2357A143&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
@@ -151,9 +146,6 @@ Results-driven developer with expertise in managing large-scale repositories and
   />
 </div>
 
----
-
-**`Architectures`**
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img
     src="https://img.shields.io/badge/Hardware-white?style=flat-square&logo=opensourcehardware&logoColor=%230099B0&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
