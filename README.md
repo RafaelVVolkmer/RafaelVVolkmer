@@ -93,24 +93,4 @@ Results-driven developer with expertise in managing large-scale repositories and
     alt="Git"
     width="75"
   />
-  <img
-    src="https://img.shields.io/badge/Jenkins-white?style=flat-square&logo=jenkins&logoColor=%23D24939&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
-    alt="Jenkins"
-    width="115"
-  />
-  <img
-    src="https://img.shields.io/badge/Neovim-white?style=flat-square&logo=neovim&logoColor=%2357A143&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
-    alt="Neovim"
-    width="115"
-  />
-  <img
-    src="https://img.shields.io/badge/CubeIDE-white?style=flat-square&logo=stmicroelectronics&logoColor=%2303234B&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
-    alt="CubeIDE"
-    width="128"
-  />
-  <img
-    src="https://img.shields.io/badge/Hardware-white?style=flat-square&logo=opensourcehardware&logoColor=%230099B0&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
-    alt="Hardware"
-    width="130"
-  />
 </div>
