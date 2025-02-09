@@ -96,6 +96,9 @@ Results-driven developer with expertise in managing large-scale repositories and
 </div>
 
 ---
+
+# Code Stats
+
 <table width="800px">
   <tr>
     <td width="50%">
