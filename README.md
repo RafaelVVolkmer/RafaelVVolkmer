@@ -37,12 +37,12 @@ Results-driven developer with expertise in managing large-scale repositories and
   <img 
     src="https://img.shields.io/badge/Rust-white?style=flat-square&logo=rust&logoColor=%23000000&labelColor=%23161b22&color=%23161b22"
     alt="Rust"
-    width="90"
+    width="91"
   />
   <img 
     src="https://img.shields.io/badge/Zig-white?style=flat-square&logo=zig&logoColor=%23F7A41D&labelColor=%23161b22&color=%23161b22"
     alt="Zig"
-    width="78"
+    width="79"
   />
   <img 
     src="https://img.shields.io/badge/GoLang-white?style=flat-square&logo=go&logoColor=%2300ADD8&labelColor=%23161b22&color=%23161b22"
@@ -53,11 +53,6 @@ Results-driven developer with expertise in managing large-scale repositories and
     src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=%233776AB&labelColor=%23161b22&color=%23161b22"
     alt="Python"
     width="112"
-  />
-  <img
-    src="https://img.shields.io/badge/Lua-white?style=for-the-badge&logo=lua&logoColor=%232C2D72&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
-    alt="Lua"
-    width="90"
   />
 </div>
 
