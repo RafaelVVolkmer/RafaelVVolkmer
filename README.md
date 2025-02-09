@@ -13,56 +13,53 @@ Results-driven developer with expertise in managing large-scale repositories and
   />
   <span style="font-size: 28px; font-weight: bold;"> Tech Stack</span>
 </h1>
-
-<div style="display: flex; flex-wrap: wrap; gap: px;">
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img 
     src="https://img.shields.io/badge/C-white?style=flat-square&logo=c&logoColor=%23A8B9CC&labelColor=%23161b22&color=%23161b22"
     alt="C"
-    width="70"
+    width="63"
   />
   <img 
     src="https://img.shields.io/badge/C++-white?style=flat-square&logo=cplusplus&logoColor=%2300599C&labelColor=%23161b22&color=%23161b22"
     alt="C++"
-    width="100"
+    width="90"
   />
   <img 
     src="https://img.shields.io/badge/Assembly-white?style=flat-square&logo=assemblyscript&logoColor=%23007AAC&labelColor=%23161b22&color=%23161b22"
     alt="Assembly"
-    width="148"
+    width="133"
   />
   <img 
     src="https://img.shields.io/badge/Bash-white?style=flat-square&logo=gnubash&logoColor=%234EAA25&labelColor=%23161b22&color=%23161b22"
     alt="Bash"
-    width="104"
+    width="94"
   />
   <img 
     src="https://img.shields.io/badge/Rust-white?style=flat-square&logo=rust&logoColor=%23000000&labelColor=%23161b22&color=%23161b22"
     alt="Rust"
-    width="100"
+    width="90"
   />
   <img 
     src="https://img.shields.io/badge/Zig-white?style=flat-square&logo=zig&logoColor=%23F7A41D&labelColor=%23161b22&color=%23161b22"
     alt="Zig"
-    width="87"
+    width="78"
   />
   <img 
     src="https://img.shields.io/badge/GoLang-white?style=flat-square&logo=go&logoColor=%2300ADD8&labelColor=%23161b22&color=%23161b22"
     alt="GoLang"
-    width="128"
+    width="115"
   />
   <img 
     src="https://img.shields.io/badge/Python-white?style=flat-square&logo=python&logoColor=%233776AB&labelColor=%23161b22&color=%23161b22"
     alt="Python"
-    width="124"
+    width="112"
   />
   <img
     src="https://img.shields.io/badge/Lua-white?style=for-the-badge&logo=lua&logoColor=%232C2D72&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="Lua"
-    width="100"
+    width="90"
   />
 </div>
-
-
 
 
 
