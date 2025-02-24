@@ -1,6 +1,6 @@
 # > Rafael V. Volkmer
 
-**`Software Developres (Embedded Systems / Electronics Technician)`**
+**`Software Developres | Embedded Systems | Electronics Technician`**
 
 Results-driven developer with expertise in managing large-scale repositories and building scalable codebases. Proven ability to deliver clean, well-documented code with low technical debt and modular architectures. Driven by curiosity and a passion for innovation, continuously seeking knowledge. Committed team player with empathy and kindness, dedicated to learning from colleagues and mentoring others, always striving to enhance the professional environment. Self-taught and determined to advance technical expertise and personal growth, consistently overcoming challenges and adapting to new technologies and methodologies.
 
