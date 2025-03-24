@@ -97,6 +97,12 @@ Results-driven developer with expertise in managing large-scale repositories and
 
 ---
 
+<img 
+  src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png" 
+       width="1000" 
+/>
+
+---
 <table width="800px">
   <tr>
     <td width="50%">
