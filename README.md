@@ -69,11 +69,6 @@ Results-driven developer with expertise in managing large-scale repositories and
     width="103"
   />
   <img
-    src="https://img.shields.io/badge/SQLite-white?style=flat-square&logo=sqlite&logoColor=%23003B57&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
-    alt="SQLite"
-    width="110"
-  />
-  <img
     src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=%23FCC624&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="Linux"
     width="97"
