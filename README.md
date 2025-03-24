@@ -93,7 +93,13 @@ Results-driven developer with expertise in managing large-scale repositories and
     alt="Git"
     width="75"
   />
+<img 
+  src="https://img.shields.io/badge/Altium-White?style=flat-square&logo=altiumdesigner&logoColor=%23A5915F&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600" 
+     alt="Altium" 
+     width="109" 
+/>
 </div>
+
 
 ---
 
