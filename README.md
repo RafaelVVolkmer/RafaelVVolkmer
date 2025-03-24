@@ -69,11 +69,6 @@ Results-driven developer with expertise in managing large-scale repositories and
     width="103"
   />
   <img
-    src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=%23FCC624&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
-    alt="Linux"
-    width="97"
-  />
-  <img
     src="https://img.shields.io/badge/Kubernetes-white?style=flat-square&logo=kubernetes&logoColor=%23326CE5&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
     alt="Kubernetes"
     width="150"
@@ -88,6 +83,11 @@ Results-driven developer with expertise in managing large-scale repositories and
     alt="Git"
     width="75"
   />
+<img
+    src="https://img.shields.io/badge/Linux-white?style=flat-square&logo=linux&logoColor=%23FCC624&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600"
+    alt="Linux"
+    width="97"
+/>
 <img 
   src="https://img.shields.io/badge/Altium-White?style=flat-square&logo=altiumdesigner&logoColor=%23A5915F&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600" 
      alt="Altium" 
