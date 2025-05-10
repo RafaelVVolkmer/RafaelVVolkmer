@@ -99,11 +99,5 @@ I serve as the Technical Lead for automotive embedded‐systems projects, overse
 
 ---
 
-<img 
-  src="https://github.com/RafaelVVolkmer/RafaelVVolkmer/blob/main/image.png" 
-       width="1000" 
-/>
-
----
 
 
