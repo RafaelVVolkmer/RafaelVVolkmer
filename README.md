@@ -4,7 +4,7 @@
 
 Results-driven developer with expertise in managing large-scale repositories and building scalable codebases. Proven ability to deliver clean, well-documented code with low technical debt and modular architectures. Driven by curiosity and a passion for innovation, continuously seeking knowledge. Committed team player with empathy and kindness, dedicated to learning from colleagues and mentoring others, always striving to enhance the professional environment. Self-taught and determined to advance technical expertise and personal growth, consistently overcoming challenges and adapting to new technologies and methodologies.
 
-I serve as the Technical Lead for automotive embedded‐systems projects, overseeing both hardware and firmware design. In this capacity, I manage integration of Linux and bare‐metal platforms, coordinate system planning and implementation, and maintain direct collaboration with semiconductor suppliers and end customers to ensure seamless delivery. I possess R&D experience in designing and manufacturing innovative, cutting-edge devices for the industrial and automotive automation sectors, with a strong emphasis on researching and developing new technologies.
+I serve as the Technical Lead for automotive embedded‐systems projects, overseeing both hardware and firmware design. In this capacity, I manage integration of Linux and bare‐metal platforms, coordinate system planning, implementation, and maintain direct collaboration with semiconductor suppliers and end customers to ensure seamless delivery. I possess R&D experience in designing and manufacturing innovative, cutting-edge devices for the industrial and automotive automation sectors, with a strong emphasis on researching and developing new technologies.
 
 ---
 
