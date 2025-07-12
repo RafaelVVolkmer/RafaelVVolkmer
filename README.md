@@ -29,24 +29,3 @@ I serve as the Technical Lead for automotive embedded‐systems projects, overse
 | **Database**   |![MySQL](https://img.shields.io/badge/MySql-white?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600) ![Static Badge](https://img.shields.io/badge/sqlite-white?style=for-the-badge&logo=sqlite&logoColor=%23003B57&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600) |
 | **DevOps**   |  ![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=32&labelColor=0D1117&color=0D1117&cacheSeconds=3600) ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=%23326CE5&logoSize=32&labelColor=0D1117&color=0D1117&cacheSeconds=3600)  ![Jenkins](https://img.shields.io/badge/Jenkins-white?style=for-the-badge&logo=jenkins&logoColor=%23D24939&logoSize=32&labelColor=0D1117&color=0D1117&cacheSeconds=3600) ![Qemu](https://img.shields.io/badge/Qemu-white?style=for-the-badge&logo=qemu&logoColor=%23FF6600&logoSize=32&labelColor=0D1117&color=0D1117&cacheSeconds=3600) ![GitHubActions](https://img.shields.io/badge/Githubactions-white?style=for-the-badge&logo=githubactions&logoColor=%232088FF&logoSize=32&labelColor=0D1117&color=0D1117&cacheSeconds=3600) |
 | **Hardware**   | ![Altium](https://img.shields.io/badge/Altium-White?style=for-the-badge&logo=altiumdesigner&logoColor=%23A5915F&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=360) ![Kicad](https://img.shields.io/badge/Kicad-white?style=for-the-badge&logo=kicad&logoColor=%23314CB0&logoSize=32&&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600) ![Multi-Sim](https://img.shields.io/badge/Multisim-white?style=for-the-badge&logo=multisim&logoColor=%2357B685&logoSize=32&labelColor=%23161b22&color=%23161b22&cacheSeconds=3600)
-
-
-
-
-
----
-<table width="800px">
-  <tr>
-    <td width="50%">
-      <img src="https://leetcard.jacoblin.cool/Rafael_Volkmer?theme=catppuccinMocha&font=BIZ%20UDGothic&ext=activity" height="300px" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=RafaelVVolkmer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="200px" width="100%"/>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVVolkmer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="140px" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-
-
