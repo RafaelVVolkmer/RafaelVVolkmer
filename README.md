@@ -1,5 +1,3 @@
-
-![Diagrama do circuito](circuit.svg)
 ---
 
 # > Rafael V. Volkmer
