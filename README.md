@@ -40,4 +40,4 @@ I serve as the Technical Lead for automotive embedded‐systems projects, overse
 
 | Project | Stack| Description| Links | Status |
 |---|---|---|---|---|
-| **libmemalloc** | C • CMake | Customized modern allocator in C | [Repo](https://github.com/RafaelVVolkmer/libmemalloc) · [Docs](https://rafaelvvolkmer.github.io/libmemalloc) · [Releases](https://github.com/RafaelVVolkmer/libmemalloc/releases/tag/v2.0.00) | Under Development |
+| **libmemalloc** | C • CMake | Customized modern allocator in C | [Repo](https://github.com/RafaelVVolkmer/libmemalloc) · [Docs](https://rafaelvvolkmer.github.io/libmemalloc) · [Releases](https://github.com/RafaelVVolkmer/libmemalloc/releases) | Under Development |
