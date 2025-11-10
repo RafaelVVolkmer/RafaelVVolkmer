@@ -38,6 +38,8 @@ I serve as the Technical Lead for automotive embedded‐systems projects, overse
 
 # > Featured Projects
 
-| Project | Stack| Description| Links | Status |
+| Project | Stack | Description | Links | Status |
 |---|---|---|---|---|
 | **libmemalloc** | C • CMake | Customized modern allocator in C | [Repo](https://github.com/RafaelVVolkmer/libmemalloc) · [Docs](https://rafaelvvolkmer.github.io/libmemalloc) · [Releases](https://github.com/RafaelVVolkmer/libmemalloc/releases) | Under Development |
+| **NeuroTrack** | C • CMake | From-scratch CNN in C | [Repo](https://github.com/RafaelVVolkmer/NeuroTrack) | Under Development |
+| **CodeStyleChecker** | Go | Modular C code style checker | [Repo](https://github.com/RafaelVVolkmer/CodeStyleChecker) | Under Development |
