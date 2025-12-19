@@ -28,8 +28,8 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 | Area | Technologies |
 |------|--------------|
 | **System** | [![Linux][b-linux]][l-linux] [![Arch Linux][b-arch]][l-arch] [![Ubuntu][b-ubuntu]][l-ubuntu] [![Fedora][b-fedora]][l-fedora] [![NixOS][b-nixos]][l-nixos] [![GNU][b-gnu]][l-gnu] |
-| **Embedded Langs** | [![C][b-c]][l-c] [![Assembly][b-asm]][l-asm] [![Rust][b-rust]][l-rust] [![Zig][b-zig]][l-zig] [![CUDA][b-cuda]][l-cuda] [![VHDL][b-vhdl]][l-vhdl] |
-| **Embedded Build** | [![CMake][b-cmake]][l-cmake] [![Yocto][b-yocto]][l-yocto] [![Buildroot][b-buildroot]][l-buildroot] [![U-Boot][b-uboot]][l-uboot] [![Zephyr][b-zephyr]][l-zephyr] |
+| **Embedded** | [![C][b-c]][l-c] [![Assembly][b-asm]][l-asm] [![Rust][b-rust]][l-rust] [![Zig][b-zig]][l-zig] [![CUDA][b-cuda]][l-cuda] [![VHDL][b-vhdl]][l-vhdl] |
+| **Build & Env** | [![CMake][b-cmake]][l-cmake] [![Yocto][b-yocto]][l-yocto] [![Buildroot][b-buildroot]][l-buildroot] [![U-Boot][b-uboot]][l-uboot] [![Zephyr][b-zephyr]][l-zephyr] |
 | **Script** | [![Bash][b-bash]][l-bash] [![Lua][b-lua]][l-lua] [![Python][b-python]][l-python] [![Perl][b-perl]][l-perl] [![Octave][b-octave]][l-octave] [![YAML][b-yaml]][l-yaml] |
 | **Version Control** | [![Git][b-git]][l-git] [![GitHub][b-github]][l-github] [![GitLab][b-gitlab]][l-gitlab] |
 | **BackEnd** | [![C++][b-cpp]][l-cpp] [![Go][b-go]][l-go] [![Apache Kafka][b-kafka]][l-kafka] |
@@ -126,7 +126,7 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 [b-vhdl]: https://img.shields.io/badge/VHDL-CD040B?style=for-the-badge&logo=verizon&logoColor=red&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
 
 [b-yocto]: https://img.shields.io/badge/Yocto-white?style=for-the-badge&logo=yubico&logoColor=blue&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
-[b-buildroot]: https://img.shields.io/badge/Buildroot-white?style=for-the-badge&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
+[b-buildroot]: https://img.shields.io/badge/Buildroot-white?style=for-the-badge&logo=bookalope&logoColor=yellow&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
 [b-uboot]: https://img.shields.io/badge/U--Boot-white?style=for-the-badge&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
 [b-zephyr]: https://img.shields.io/badge/Zephyr-white?style=for-the-badge&logo=zotero&logoColor=purple&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
 
