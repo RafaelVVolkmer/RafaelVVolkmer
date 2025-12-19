@@ -37,7 +37,7 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 | **Database** | [![MySQL][b-mysql]][l-mysql] [![SQLite][b-sqlite]][l-sqlite] |
 | **DevOps** | [![Docker][b-docker]][l-docker] [![Kubernetes][b-k8s]][l-k8s] [![Jenkins][b-jenkins]][l-jenkins] [![QEMU][b-qemu]][l-qemu] [![GitHub Actions][b-gh-actions]][l-gh-actions] |
 | **Hardware** | [![Altium][b-altium]][l-altium] [![KiCad][b-kicad]][l-kicad] [![Multisim][b-multisim]][l-multisim] |
-| **Documentation** | [![LaTeX][b-latex]][l-latex] [![Markdown][b-markdown]][l-markdown] [![Doxygen][b-doxygen]][l-doxygen] |
+| **Documentation** | [![LaTeX][b-latex]][l-latex] [![sphinx][b-sphinx]][l-sphinx] [![Markdown][b-markdown]][l-markdown] [![Doxygen][b-doxygen]][l-doxygen] [![mermaid][b-mermaid]][l-mermaid] |
 
 ---
 
@@ -167,3 +167,9 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 [b-latex]: https://img.shields.io/badge/LaTeX-white?style=for-the-badge&logo=latex&logoColor=%23008080&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
 [b-markdown]: https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&logoColor=%23000000&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
 [b-doxygen]: https://img.shields.io/badge/Doxygen-white?style=for-the-badge&logo=doxygen&logoColor=%232C4AA8&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
+
+[b-sphinx]: https://img.shields.io/badge/Sphinx-white?style=for-the-badge&logo=sphinx&logoColor=%23000000&logoSize=32&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
+[l-sphinx]: https://www.sphinx-doc.org
+
+[b-mermaid]: https://img.shields.io/badge/Mermaid-white?style=for-the-badge&logo=mermaid&logoColor=%23FF3670&logoSize=32&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
+[l-mermaid]: https://mermaid.js.org
