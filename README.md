@@ -31,7 +31,7 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 | **Embedded** | [![C][b-c]][l-c] [![Assembly][b-asm]][l-asm] [![Rust][b-rust]][l-rust] [![Zig][b-zig]][l-zig] [![CUDA][b-cuda]][l-cuda] [![VHDL][b-vhdl]][l-vhdl] |
 | **Build & Env** | [![CMake][b-cmake]][l-cmake] [![Yocto][b-yocto]][l-yocto] [![Buildroot][b-buildroot]][l-buildroot] [![U-Boot][b-uboot]][l-uboot] [![Zephyr][b-zephyr]][l-zephyr] |
 | **Script** | [![Bash][b-bash]][l-bash] [![Lua][b-lua]][l-lua] [![Python][b-python]][l-python] [![Perl][b-perl]][l-perl] [![Octave][b-octave]][l-octave] [![YAML][b-yaml]][l-yaml] |
-| **Version Control** | [![Git][b-git]][l-git] [![GitHub][b-github]][l-github] [![GitLab][b-gitlab]][l-gitlab] |
+| **Version Control** | [![Git][b-git]][l-git] [![GitHub][b-github]][l-github] [![GitLab][b-gitlab]][l-gitlab] [![Git LFS][b-git-lfs]][l-git-lfs] |
 | **BackEnd** | [![C++][b-cpp]][l-cpp] [![Go][b-go]][l-go] [![Apache Kafka][b-kafka]][l-kafka] |
 | **FrontEnd** | [![Qt][b-qt]][l-qt] [![GTK][b-gtk]][l-gtk] |
 | **Database** | [![MySQL][b-mysql]][l-mysql] [![SQLite][b-sqlite]][l-sqlite] |
@@ -109,6 +109,9 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 [l-latex]: https://www.latex-project.org
 [l-markdown]: https://www.markdownguide.org
 [l-doxygen]: https://doxygen.nl
+
+[b-git-lfs]: https://img.shields.io/badge/Git_LFS-white?style=for-the-badge&logo=gitlfs&logoColor=%23F64935&logoSize=32&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
+[l-git-lfs]: https://git-lfs.com
 
 [b-linux]: https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=%23FCC624&logoSize=40&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
 [b-arch]: https://img.shields.io/badge/Arch_Linux-white?style=for-the-badge&logo=archlinux&logoColor=%231793D1&logoSize=32&labelColor=rgba(0,0,0,0)&color=rgba(0,0,0,0)&cacheSeconds=1
