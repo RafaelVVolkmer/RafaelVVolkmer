@@ -29,7 +29,7 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 |------|--------------|
 | **System** | [![Linux][b-linux]][l-linux] [![Arch Linux][b-arch]][l-arch] [![Ubuntu][b-ubuntu]][l-ubuntu] [![Fedora][b-fedora]][l-fedora] [![NixOS][b-nixos]][l-nixos] [![GNU][b-gnu]][l-gnu] |
 | **Embedded** | [![C][b-c]][l-c] [![Assembly][b-asm]][l-asm] [![Rust][b-rust]][l-rust] [![Zig][b-zig]][l-zig] [![CUDA][b-cuda]][l-cuda] [![VHDL][b-vhdl]][l-vhdl] |
-| **Build & Env** | <a href="https://www.yoctoproject.org"><img src="./badges/C-MAKE.svg" height="25" alt="Yocto"></a> <a href="https://www.yoctoproject.org"><img src="./badges/YOCTO.svg" height="25" alt="Yocto"></a>  <a href="https://www.yoctoproject.org"><img src="./badges/BUILDROOT.svg" height="25" alt="Yocto"></a>  <a href="https://www.yoctoproject.org"><img src="./badges/U-BOOT.svg" height="25" alt="Yocto"></a> <a href="https://www.yoctoproject.org"><img src="./badges/ZEPHYR.svg" height="25" alt="Yocto"></a> |
+| **Build & Env** | <a href="https://cmake.org"><img src="./badges/C-MAKE.svg" height="25" alt="CMake"></a>  <a href="https://cmake.org"><img src="./badges/NINJA.svg" height="25" alt="CMake"></a> <a href="https://cmake.org"><img src="./badges/MAKE.svg" height="25" alt="CMake"></a>  <a href="https://cmake.org"><img src="./badges/MESON.svg" height="25" alt="CMake"></a> </a>  <a href="https://cmake.org"><img src="./badges/BAZEL.svg" height="25" alt="CMake"></a>  |
 | **Script** | [![Bash][b-bash]][l-bash] [![Lua][b-lua]][l-lua] [![Python][b-python]][l-python] [![Perl][b-perl]][l-perl] [![Octave][b-octave]][l-octave] [![YAML][b-yaml]][l-yaml] |
 | **Version Control** | [![Git][b-git]][l-git] [![GitHub][b-github]][l-github] [![GitLab][b-gitlab]][l-gitlab] [![Git LFS][b-git-lfs]][l-git-lfs] |
 | **BackEnd** | [![C++][b-cpp]][l-cpp] [![Go][b-go]][l-go] [![Apache Kafka][b-kafka]][l-kafka] |
@@ -49,6 +49,12 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 | **CodeAudit** | [![Go][b-go]][l-go] | Parallel code quality and metrics analyzer in Go, aggregating complexity, comments, duplication, and git hotspot data for C/C++ and Go projects. | [Repo][p-codeaudit-repo] | ◷ Under development |
 
 ---
+
+[i-cmake]: ./badges/C-MAKE.svg
+[i-yocto]: ./badges/YOCTO.svg
+[i-buildroot]: ./badges/BUILDROOT.svg
+[i-uboot]: ./badges/U-BOOT.svg
+[i-zephyr]: ./badges/ZEPHYR.svg
 
 [p-libmemalloc-repo]: https://github.com/RafaelVVolkmer/libmemalloc
 [p-libmemalloc-docs]: https://rafaelvvolkmer.github.io/libmemalloc
