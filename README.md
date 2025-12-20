@@ -30,14 +30,15 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 | **System** | [![Linux][b-linux]][l-linux] [![Arch Linux][b-arch]][l-arch] [![Ubuntu][b-ubuntu]][l-ubuntu] [![Fedora][b-fedora]][l-fedora] [![NixOS][b-nixos]][l-nixos] [![GNU][b-gnu]][l-gnu] |
 | **Embedded** | [![C][b-c]][l-c] [![Assembly][b-asm]][l-asm] [![Rust][b-rust]][l-rust] [![Zig][b-zig]][l-zig] [![CUDA][b-cuda]][l-cuda] [![VHDL][b-vhdl]][l-vhdl] |
 | **Build** | <a href="https://cmake.org"><img src="./badges/C-MAKE.svg" height="25" alt="CMake"></a> <a href="https://www.gnu.org/software/make/"><img src="./badges/MAKE.svg" height="25" alt="GNU Make"></a> <a href="https://ninja-build.org"><img src="./badges/NINJA.svg" height="25" alt="Ninja"></a> <a href="https://mesonbuild.com"><img src="./badges/MESON.svg" height="25" alt="Meson"></a> </a>  <a href="https://bazel.build"><img src="./badges/BAZEL.svg" height="25" alt="Bazel"></a>  |
+| **Build** | <a href="https://bazel.build"><img src="./badges/U-BOOT.svg" height="25" alt="Bazel"></a> <a href="https://bazel.build"><img src="./badges/BUILDROOT.svg" height="25" alt="Bazel"></a> <a href="https://bazel.build"><img src="./badges/YOCTO.svg" height="25" alt="Bazel"></a> <a href="https://bazel.build"><img src="./badges/ZEPHYR.svg" height="25" alt="Bazel"></a> <a href="https://bazel.build"><img src="./badges/OPENWRT.svg" height="25" alt="Bazel"></a> <a href="https://bazel.build"><img src="./badges/ESPIDF.svg" height="25" alt="Bazel"></a>
 | **Script** | [![Bash][b-bash]][l-bash] [![Lua][b-lua]][l-lua] [![Python][b-python]][l-python] [![Perl][b-perl]][l-perl] [![Octave][b-octave]][l-octave] [![YAML][b-yaml]][l-yaml] |
-| **Version Control** | [![Git][b-git]][l-git] [![GitHub][b-github]][l-github] [![GitLab][b-gitlab]][l-gitlab] [![Git LFS][b-git-lfs]][l-git-lfs] |
+| **Version** | [![Git][b-git]][l-git] [![GitHub][b-github]][l-github] [![GitLab][b-gitlab]][l-gitlab] [![Git LFS][b-git-lfs]][l-git-lfs] |
 | **BackEnd** | [![C++][b-cpp]][l-cpp] [![Go][b-go]][l-go] [![Apache Kafka][b-kafka]][l-kafka] |
 | **FrontEnd** | [![Qt][b-qt]][l-qt] [![GTK][b-gtk]][l-gtk] |
 | **Database** | [![MySQL][b-mysql]][l-mysql] [![SQLite][b-sqlite]][l-sqlite] |
 | **DevOps** | [![Docker][b-docker]][l-docker] [![Kubernetes][b-k8s]][l-k8s] [![Jenkins][b-jenkins]][l-jenkins] [![QEMU][b-qemu]][l-qemu] [![GitHub Actions][b-gh-actions]][l-gh-actions] |
 | **Hardware** | [![Altium][b-altium]][l-altium] [![KiCad][b-kicad]][l-kicad] [![Multisim][b-multisim]][l-multisim] |
-| **Documentation** | [![LaTeX][b-latex]][l-latex] [![sphinx][b-sphinx]][l-sphinx] [![Markdown][b-markdown]][l-markdown] [![Doxygen][b-doxygen]][l-doxygen] [![mermaid][b-mermaid]][l-mermaid] |
+| **Docs** | [![LaTeX][b-latex]][l-latex] [![sphinx][b-sphinx]][l-sphinx] [![Markdown][b-markdown]][l-markdown] [![Doxygen][b-doxygen]][l-doxygen] [![mermaid][b-mermaid]][l-mermaid] |
 
 ---
 
