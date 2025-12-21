@@ -52,4 +52,9 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 | **libmemalloc** | [![C][b-c]][l-c] [![CMake][b-cmake]][l-cmake] | Modern custom allocator in C, designed for observability, safety checks, and pluggable strategies. | [Repo][p-libmemalloc-repo] · [Docs][p-libmemalloc-docs] · [Releases][p-libmemalloc-releases] | ◷ Under development |
 | **CodeAudit** | [![Go][b-go]][l-go] | Parallel code quality and metrics analyzer in Go, aggregating complexity, comments, duplication, and git hotspot data for C/C++ and Go projects. | [Repo][p-codeaudit-repo] | ◷ Under development |
 
+
 ---
+[p-libmemalloc-repo]: https://github.com/RafaelVVolkmer/libmemalloc
+[p-libmemalloc-docs]: https://rafaelvvolkmer.github.io/libmemalloc
+[p-libmemalloc-releases]: https://github.com/RafaelVVolkmer/libmemalloc/releases
+[p-codeaudit-repo]: https://github.com/RafaelVVolkmer/codeaudit
