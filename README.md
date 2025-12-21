@@ -49,8 +49,8 @@ Self-taught and curiosity-driven, I’m constantly learning new tools, languages
 
 | Project | Stack | Description | Links | Status |
 |--------|-------|-------------|-------|--------|
-| **libmemalloc** | [![C][b-c]][l-c] [![CMake][b-cmake]][l-cmake] | Modern custom allocator in C, designed for observability, safety checks, and pluggable strategies. | [Repo][p-libmemalloc-repo] · [Docs][p-libmemalloc-docs] · [Releases][p-libmemalloc-releases] | ◷ Under development |
-| **CodeAudit** | [![Go][b-go]][l-go] | Parallel code quality and metrics analyzer in Go, aggregating complexity, comments, duplication, and git hotspot data for C/C++ and Go projects. | [Repo][p-codeaudit-repo] | ◷ Under development |
+| **libmemalloc** |<a href="https://cmake.org"><img src="./badges/C.svg" height="22" alt="CMake"></a>  <a href="https://cmake.org"><img src="./badges/C-MAKE.svg" height="22" alt="CMake"></a> | Modern custom allocator in C, designed for observability, safety checks, and pluggable strategies. | [Repo][p-libmemalloc-repo] · [Docs][p-libmemalloc-docs] · [Releases][p-libmemalloc-releases] | ◷ Under development |
+| **CodeAudit** | <a href="https://bazel.build"><img src="./badges/GO.svg" height="22" alt="Bazel"></a> | Parallel code quality and metrics analyzer in Go, aggregating complexity, comments, duplication, and git hotspot data for C/C++ and Go projects. | [Repo][p-codeaudit-repo] | ◷ Under development |
 
 
 ---
